@@ -1,0 +1,602 @@
+/* Common CSS */
+.page-template-page-builder section{padding:0;}
+.elementor-section{padding: 0;}
+.elementor-image-box-title{margin: 0;}
+.elementor-icon-box-title{margin: 0;}
+.page-template-builder-fullwidth-std section{padding:0;}
+/* Common CSS End*/
+
+/* MyDog */
+.mydog-section-2:after{background-image: url(https://demosktthemes.com/free/mydog/wp-content/themes/my-dog/images/halfcircle_up.png); background-repeat: repeat-x; background-position: center top; content: ""; display: block; height: 25px; position: absolute; bottom: -4px; width: 100%; z-index: 999;}
+.mydog-section-2:before {background-image: url(https://demosktthemes.com/free/mydog/wp-content/themes/my-dog/images/halfcircle_down.png); background-repeat: repeat-x; background-position: center top; content: ""; display: block; height: 25px; position: absolute; top: -4px; width: 100%; z-index: 999;}
+
+.mydog-section-2 .services-box-image .elementor-widget-container {display: flex; width: 130px !important; height: 130px; border-radius: 50%; text-align: center; justify-content: center; align-items: center; margin: 0 auto; transition: all 0.2s;}
+.mydog-section-2 .services-box-dots{text-align: center;}
+.mydog-section-2 .services-box-dots span{height: 7px; width: 7px; display: inline-block; background-color: #9cc914; border-radius: 50%; transition: all 0.2s; background-color: #9cc914;}
+.mydog-section-2 .services-box-inner:hover .services-box-image .elementor-widget-container{background-color: #9cc914 !important;}
+.mydog-section-2 .services-box-inner:hover .services-box-dots span{background-color: #9cc914 !important;}
+/* MyDog */
+
+/* SKT Activism Lite */
+.activist-section-1 .elementor-image-box-img img{display: inline-block;}
+.activist-section-3 .elementor-image-box-img img{display: inline-block;}
+/* SKT Activism Lite */
+
+/* Martial Arts Lite */
+.workout-cont-img .elementor-widget-container{transform:skew(-20deg); -ms-transform: skew(-20deg); -webkit-transform: skew(-20deg);}
+.workout-cont-img .elementor-image{transform:skew(20deg); -ms-transform: skew(20deg); -webkit-transform: skew(20deg);}
+.workout-cont-box .elementor-widget-container{transform:skew(-20deg);  -ms-transform: skew(-20deg); -webkit-transform: skew(-20deg);}
+.workout-cont-box .elementor-image-box-content{transform:skew(20deg);  -ms-transform: skew(20deg); -webkit-transform: skew(20deg);}
+.workout-cont-box .elementor-image-box-description{text-indent:15px;}
+.workout-cont-box .elementor-image-box-title{margin-left:30px; margin-top: 0;}
+
+.service-box{transform:skew(-7deg); -ms-transform: skew(-7deg); -webkit-transform: skew(-7deg);}
+.service-box .elementor-image-box-wrapper{transform:skew(7deg); -ms-transform: skew(7deg); -webkit-transform: skew(7deg);}
+.service-box .elementor-image-box-title{margin-top: 0;}
+
+.our-services{position:relative; overflow: hidden;}
+.our-services::after {content:""; width:300px; height:240px; background: #282828; position:absolute; bottom:0px; right:-30px; transform:skew(-10deg); -ms-transform: skew(-10deg); -webkit-transform: skew(-10deg);}
+.our-services::before {content:""; width:300px; height:370px; background: #e2002b; position:absolute; top:0px; left:-30px; transform:skew(-10deg); -ms-transform: skew(-10deg); -webkit-transform: skew(-10deg);}
+
+@media screen and (max-width: 29.938em) {
+.workout-cont-box {position:relative !important; left:0px !important; top:0px !important; margin-bottom:140px !important;}
+.workout-cont-box .elementor-widget-container, .workout-cont-box .elementor-image-box-content {transform: skew(0deg); -ms-transform: skew(0deg); -webkit-transform:skew(0deg);}
+.workout-cont-img .elementor-widget-container{margin:0px -60px 0px 20px !important;}
+.workout-cont-img2{top:230px !important; bottom:0 !important; position:relative !important; left:-75px !important;}
+.workout-cont-img3{top:490px !important; position:relative !important; left:-40px !important}
+}
+
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.workout-cont-box {position:relative !important; left:0px !important; top:0px !important; margin-bottom:140px !important;}
+.workout-cont-img{left:50px !important; top:-10px;}
+.workout-cont-img2{top:140px !important; bottom:0 !important; position:relative !important; left:-115px !important;}
+.workout-cont-img3{top:290px !important; position:relative !important; left:-30px !important}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+.workout-cont-box {position:relative !important; left:0px !important; top:0px !important; margin-bottom:140px !important;}
+.workout-cont-box .elementor-widget-container, .workout-cont-box .elementor-image-box-content {transform: skew(0deg); -ms-transform: skew(0deg); -webkit-transform:skew(0deg);}
+.workout-cont-img .elementor-widget-container{margin:0px -45px 0px 20px !important;}
+.workout-cont-img2{top:200px !important; bottom:0 !important; position:relative !important; left:-85px !important;}
+.workout-cont-img3{top:400px !important; position:relative !important; left:-40px !important}
+}
+/* Martial Arts Lite End */
+
+/* SKT Winery Lite */
+.skt-winery-service-box .elementor-image-box-img img{display: inline-block;}
+.skt-center-img:after{content: ""; background-color: #ffffff; height: 350px; width: 120%; position: absolute; bottom: -110px; border-radius: 50%; left: -10%; right: 0; margin: 0 auto; z-index: 2;}
+.skt-center-img-section::after{content: ""; background-color: #fff; height: 170px; width: 100%; display: block; position: absolute; bottom: 0; z-index: 1;}
+.skt-center-img img{position: relative; z-index: 5;}
+/* SKT Winery Lite End */
+
+/* SKT Coffee */
+.skt-coffee-service-box .elementor-image-box-img img{display: inline-block;}
+.coffee-svg,
+.about-coffee-svg{display: none;}
+.services-box2::before{position: absolute; bottom: -155px; width: 100%; content: ''; background-image: url(https://demosktthemes.com/free/cuppa/wp-content/themes/skt-cuppa/images/service-svg.svg); z-index: 9999; height: 210px; background-repeat: no-repeat; background-size: 100% 100%;}
+.about-cafe::before{position: absolute; bottom: -210px; width: 70%; content: ''; background-image: url(https://demosktthemes.com/free/cuppa/wp-content/themes/skt-cuppa/images/logo-svg.svg); z-index: 9999; height: 226px; background-repeat: no-repeat; background-size: 60% 60%; left: 0;}
+/* SKT Coffee End */
+
+/* Restaurant Lite */
+.restaurant-lite-feature-box .elementor-image-box-img img{display: inline-block;}
+.skt-story-box .elementor-column-wrap{position: relative; z-index: 99;}
+.skt-story-box .elementor-column-wrap:before{content: ""; border: dashed 2px #535049; position: absolute; left: 5%; top: 5%; height: 90%; width: 90%; z-index: -1;}
+.skt-dish-content .elementor-widget-container{position: relative;}
+.skt-dish-content .elementor-widget-container:before{content: ""; border-bottom: solid 12px #F8F8F8; border-left: solid 12px transparent; border-right: solid 12px transparent; position: absolute; top: -12px; left: 0; right: 0; width: 0; margin: 0 auto;}
+/* Restaurant Lite End */
+
+/* SKT Auto Car */
+.auto-car-service-box.service-box{ height:400px !important; transform: none;}
+.auto-car-service-box.service-box .elementor-widget-button{ display:none;}
+.auto-car-service-box.service-box:hover .elementor-widget-button{ display:block;}
+.auto-car-service-box.service-box:hover{ z-index:999;}
+
+.video-play-buton img{width: 182px !important; height: 60px !important;}
+.services-box::before {content:''; background:rgba(215, 69, 22, 0.8); width:100%; height:88%; position:absolute; top:0px; left:0px; z-index:9; text-align:center; padding-top:65%; color:#fff; font-size:30px; display:none; }
+.services-box:hover:before{ display:block;}
+.services-box:hover .elementor-heading-title{ color:#d74516 !important;}
+
+@media screen and (max-width: 29.938em) {
+.services-box::before{width:81%; height:81%;left:35px;}
+}
+@media(max-width: 767px){
+.service-box {height: inherit !important;}
+}
+
+@media(max-width: 479px){
+.service-box {height: inherit !important;}
+}
+/* SKT Auto Car End */
+
+/* SKT Architect Lite */
+.skt-architect-service-box .elementor-image-box-img img{display: inline-block;}
+.years-box {bottom: -50px;}
+.explore-btn .elementor-button {width: 100% !important; text-align: left; vertical-align:middle;}
+.explore-btn span.elementor-button-text {position: relative; top: 18px; left: 45px;}
+.explore-btn span.elementor-button-text:before {content: ''; width: 50px; height: 3px; background-color: #333; position: absolute; left: -70px; top: 7px;}
+.explore-btn span.elementor-button-icon.elementor-align-icon-right i {font-size: 50px; color: #fff;}
+
+@media(max-width: 1079px){
+.years-box {bottom: 0;}
+}
+/* SKT Architect Lite End */
+
+/* NatureOne */
+.people-working-content{margin:0 auto;}
+.working-services-box .elementor-button-icon {width:50px; height:50px; background:#6abe52; border-radius:100%; color:#fff !important; line-height:50px; margin-top:-15px; float:right; text-align:center;}
+.working-services-box .elementor-button-content-wrapper{ text-align:left;}
+.working-services-box .elementor-button-link{ width:100% !important;}
+
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.working-services-box .elementor-button-link {width:52% !important; margin:0 auto !important; float:none !important; display:table !important;}
+}
+/* NatureOne End */
+
+
+/* SKT Build Lite */
+.alwaye-work-box{ height:200px;}
+.alwaye-work-box:after{width:0; height:0; border-top:30px solid #debc01; border-right:30px solid transparent; content:""; position:absolute; right:0px; bottom:-30px;}
+.about-build-title:before{width:120px; height:51px; content:""; position:absolute; left:-120px; top:50px; background:#ffd800; z-index:99}
+/* SKT Build Lite End */
+
+/* Fitness Lite */
+.skt-fitness-service-box{transform: none !important;}
+.skt-fitness-service-box .elementor-image-box-img img{ margin-top:10px; }
+.skt-fitness-service-box2 .elementor-image-box-img img{ margin-top:15px; }
+.skt-fitness-service-box3 .elementor-image-box-img img{ margin-top:15px; }
+
+.we-do-box .elementor-image-box-img {width:150px !important; height:120px !important; background:#e73a34; border-radius:100px; text-align:center; line-height:120px; border:solid 15px #19232f;}
+.we-do-box .elementor-image-box-img img{display: inline-block;}
+
+@media screen and (max-width: 29.938em) {
+.we-do-box .elementor-image-box-img{ height: 150px !important; line-height: 150px;}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+.skt-fitness-service-box2 .elementor-image-box-img img {margin-top:20px;}
+.skt-fitness-service-box3 .elementor-image-box-img img {margin-top:16px;}
+.we-do-box .elementor-image-box-img{height: 105px !important; line-height: 105px;}
+}
+/* Fitness Lite End */
+
+/* Flat Lite End */
+#section-btn {background-image: linear-gradient(-90deg, #ad69fd, #075ccb);}
+#section-btn:hover {background-image: linear-gradient(-40deg, #075ccb, #ad69fd);}
+.exp-box-icon .elementor-icon-box-icon .elementor-icon{background-image:linear-gradient(-130deg, #ad69fd, #075ccb);}
+.experience-outer-box::before {width:1px; height:70%; content:""; background:#fff; left:-1px; top:80px; position:relative; border:solid 1px #000; border-style:dashed; border-height:2px;}
+.exp-box-icon-before .elementor-icon-box-icon::before {width:2px; height:20px; background:#fff; content:""; position:absolute; left:47px; top:-20px;}
+/* Flat Lite End */
+
+/* Juice and Shakes Lite */
+.juice-shake-feature-box .elementor-image-box-img img{display: inline-block;}
+/* Juice and Shakes Lite End */
+
+/* SKT Design Agency */
+.video-btn i {font-size:20px !important; color:#ffffff !important; background-color:#fea700 !important; padding: 20px;}
+.video-btn .elementor-button-text {position: relative; margin-top: 23px;}
+.video-btn .elementor-button {position: relative; width: 200px;  z-index: 9;}
+/* SKT Design Agency End */
+
+/* SKT Construction Lite */
+.construction-lite-process-box .elementor-image-box-title{margin: 16px 0;}
+.construction-lite-service-box .elementor-image-box-title{margin: 16px 0;}
+/* SKT Construction Lite End*/
+
+/* IT Consultant Lite */
+.offer-img-box .elementor-widget-container{width: 90px; height: 90px; border-radius: 100px; margin: 0 auto;}
+.itconsultant-service-box .elementor-image-box-img img{display: inline-block;}
+/* IT Consultant Lite End */
+
+/* Online Coach */
+.online-coach-feature-box .elementor-image-box-img img{display: inline-block;}
+
+.coaching-row {width:100% !important; max-width:350px !important;}
+.coaching-row.coaching-right {margin-left:60px;}
+
+@media(max-width: 767px){
+.coaching-row {margin:0 auto;}
+.coaching-row.coaching-right {margin:0 auto;}
+}
+@media(min-width: 768px) and (max-width: 1023px){
+.coaching-row {margin:0 auto;}
+.coaching-row.coaching-right {margin:0 auto;}
+}
+/* Online Coach End */
+
+/* SKT Pathway */
+.client-carousel span.swiper-pagination-bullet.swiper-pagination-bullet-active{width: 40px !important; border-radius: 5px !important;}
+.client-carousel .swiper-pagination-bullet{opacity:1 !important;}
+.client-carousel .swiper-slide .swiper-slide-image{border-radius: 30px;}
+/* SKT Pathway End */
+
+/* SKT Black */
+.web-design-box {z-index:9;}
+.web-design-box:before{width:0; height:0; border-bottom:40px solid #684901; border-left:40px solid transparent; position:absolute; content:""; top:-40px; left:-25px;}
+.web-design-box:after{width:0; height:0; border-top:50px solid #684901; border-right:50px solid transparent; position:absolute; content:""; bottom:-50px; right:0px;}
+
+.development-box:after{ width:109%; height:50px; background:#161616; content:""; position:absolute; bottom:-50px; right:15px;}
+
+.who-we-are-box{transform: rotate(-90deg);}
+.who-we-are-box::after {content:""; width:1px; height:290px; position:absolute; background: #252525; transform:rotate(-90deg); left:-146px; top:-125px;}
+
+.contact-info-box::before {content:""; width:60px; height:1px; background:#252525; position:absolute; left:-58px; top:50px;}
+
+@media screen and (max-width: 29.938em) {
+.web-design-box::before, .web-design-box::after{display:none;}
+}
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+.web-design-box::before, .web-design-box::after{display:none;}
+}
+
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+.who-we-are-box::after, .contact-info-box::before{display:none;}
+}
+/* SKT Black End */
+
+/* SKT White */
+#about-left .about-4col .elementor-container{ width:780px !important;}
+#about-left .about-4col {position: relative; left: 10%; z-index: 999999999;}
+
+.creative-icon-box i {left: -6px; font-weight: 300;}
+
+@media(max-width: 767px){
+#about-left .about-4col {left: 0;}
+#about-left .about-4col .elementor-container{ width:100% !important;}
+.creative-icon-box i {left: 0;}
+}
+
+@media(min-width: 768px) and (max-width: 1023px){
+#about-left .about-4col {left: 0;}
+#about-left .about-4col .elementor-container{ width:100% !important;}
+.creative-icon-box i {left: 0;}
+}
+/* SKT White End */
+
+/* SKT Industrial Lite */
+.industrial-skills .elementor-progress-wrapper{width: 58%; position: static; margin-left: 32%;}
+.industrial-skills span.elementor-progress-text{position: absolute; left: 0; padding: 0; overflow: inherit!important;}
+.industrial-skills span.elementor-progress-percentage{position: absolute; right: 0; padding: 0;}
+
+.industrial-feature-box .elementor-image-box-img img{display: inline-block;}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+.industrial-skills .elementor-progress-text, .industrial-skills .elementor-progress-percentage{font-size: 17px!important;}
+.industrial-skills .elementor-progress-wrapper{width:100%!important; margin-left:0!important;}
+.industrial-skills .elementor-progress-text, .industrial-skills .elementor-progress-percentage{top:-10px; font-size: 15px!important;}
+.sec1-highlight figure.elementor-image-box-img {margin-left: -40px !important;}
+}
+
+@media only screen and (min-width: 1024px){
+.sec1-highlight figure.elementor-image-box-img {margin-left: -45px!important;}	
+}
+@media only screen and (max-width: 767px){
+.industrial-skills .elementor-progress-wrapper{width:100%!important; margin-left:0!important;}
+.industrial-skills .elementor-progress-text,
+.industrial-skills .elementor-progress-percentage{top:-10px; font-size: 15px!important;}
+.sec1-highlight figure.elementor-image-box-img{margin-left:0!important;}
+}
+/* SKT Industrial Lite End */
+
+/* SKT Toothy */
+.sec1-right::after{position:absolute; width:115%; height:90%; left:-26px; bottom:0; content:" "; background-color:rgba(255,255,255,0.8); z-index:-1;}
+/* SKT Toothy End */
+
+/* Butcher Lite */
+.skt-butcher-feature-box .elementor-image-box-img img{display: inline-block;}
+/* Butcher Lite End */
+
+/* CutsnStyle Lite */
+.cutsnstyle-service-box .elementor-image-box-img img{display: inline-block;}
+/* CutsnStyle Lite End */
+
+/* Modelling Lite */
+.modeling-service-box .elementor-image-box-img img{display: inline-block;}
+/* Modelling Lite End */
+
+/* Yogi Lite */
+.yogi-service-box .elementor-image-box-img img{display: inline-block;}
+/* Yogi Lite End */
+
+/* Interior Lite Start*/
+#client-read-more :before {content: ""; width: 80px; height: 56px; position: absolute; left: -80px; bottom: 0px; background: #E4A62B;}
+#client-read-more:hover ::before {background: #fff;}
+.services .elementor-widget-container {width: 230px !important;	height: 220px !important; padding-top: 40px; text-align: center;}
+.services  .elementor-image-box-title {margin:0;}
+.services:nth-child(1) {float: left; top: 120px;}
+.services:nth-child(2) {float: right; margin-top: 0px; position: relative; z-index: 999999; right: -30px;}
+.services:nth-child(3) {float: right; right: -260px; top: 30px;}
+.services-box::before {content: "";	width: 200px; position: absolute; height: 350px; border: solid 1px #8d7b65;	border-right: 0px !important; top: 60px;	left: 185px;}
+@media screen and (max-width: 29.938em) {
+	#client-read-more ::before{ display:none;}
+    .services{ margin:0 auto;}
+	.services:nth-child(1) {top:30px;}
+	.services:nth-child(2) { top:30px; right:0px; margin-top:30px;}
+	.services:nth-child(3) {right:0px; top:30px; margin-top:30px;}
+	.services-box::before{ display:none;}
+}
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+	#client-read-more ::before{ display:none;}
+	.services{ position:static !important; }
+	.services{ margin:0 auto;}
+	.services:nth-child(1) {top:30px; margin-top:30px;}
+	.services:nth-child(2) { top:30px; right:0px; margin-top:30px;}
+	.services:nth-child(3) {right:0px; top:30px; margin-top:30px;}
+	.services-box::before{ display:none;}
+}
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+	#client-read-more ::before{ display:none;}
+	.services{ position:static !important; }
+	.services{ margin:0 auto;}
+	.services:nth-child(1) {top:30px;}
+	.services:nth-child(2) { top:30px; right:0px; margin-top:30px;}
+	.services:nth-child(3) {right:0px; top:30px; margin-top:30px;}
+	.services-box::before{ display:none;}
+}
+/* Interior Lite End*/
+
+/* SKT Simple Start*/
+.skt-simple-section1 .elementor-image-box-img img{display:inline-block;}
+.skt-simple-section1 .elementor-image-box-title {margin:0;}
+.section1-title .elementor-image-box-title{margin: 0;}
+.section1-title{margin:0 auto;}
+.section1-title .elementor-heading-title span{ color:#1b85ea;}
+.section-button .elementor-button{background-image: linear-gradient(#17daf6, #1b80e9);}
+.team-people-section:after{ width:90%; height:300px; content:""; position:absolute; top:85%; transform:translateY(-85%); background-image:linear-gradient(-90deg, #18cef4, #1b7ae8); z-index:0; left:5%;}
+.provide-box .elementor-element-populated{box-shadow: 0px 0px 10px #ededed;}
+.business-solution .elementor-button:after{content:''; background: #282828; width:100px; height:58px; position:absolute; left:-100px; top:-4px}
+.projects-done:after{width:0; height:0; border-top:24px solid #0658b3; border-right:25px solid transparent; content:""; position:absolute; right:-25px; top:114px;}
+.video-section-service{ width:55%; margin-left:10%; height: inherit; background: #ccc; margin-top:-550px; margin-bottom:80px;}
+/* SKT Simple End*/
+
+/* SKT Condimentum Start*/
+.condimentum-services .elementor-image-box-img img{display:inline-block;}
+.condimentum-services .elementor-image-box-title {margin:0;}
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+	.skt-service-box .elementor-image-box-img img{display:inline-block;}
+}
+/* SKT Condimentum End*/
+
+/* SKT Charity Start*/
+.charity-categories .elementor-image-box-img img, .donate-seators .elementor-image-box-img img{display:inline-block;}
+.charity-categories .elementor-image-box-title, .donate-seators .elementor-image-box-title {margin:0;}
+.charity-about .elementor-text-editor p {line-height: 1.6em; margin: 0 0 30px 0;}
+/* SKT Charity End*/
+
+/* Ele Makeup Lite Start*/
+.skt-section1-column{width: 32% !important;}
+.section1-block-title1 .elementor-heading-title{position: relative; white-space: nowrap; z-index: 99;}
+.section1-block-title2 .elementor-heading-title{left: -90px; position: relative; white-space: nowrap; z-index: 99;}
+@media screen and (max-width: 29.938em) {
+	.section1-block-title2 .elementor-heading-title {left: 0;}
+	.skt-section1-column {width: 100% !important;}
+}
+@media screen and (max-width:47.938em) and (min-width:30.000em) {
+	.section1-block-title2 .elementor-heading-title {left: 0;}
+	.skt-section1-column {width: 100% !important;}
+}
+/* Ele Makeup Lite End*/
+
+/* Ele Attorney Lite Start*/
+.attorney-services .elementor-image-box-img img, .attorney-practice .elementor-image-box-img img, .attorney-choose-us .elementor-image-box-img img{display:inline-block;}
+.attorney-services .elementor-image-box-title, .attorney-practice .elementor-image-box-title, .attorney-choose-us .elementor-image-box-title{margin:0;}
+/* Ele Attorney Lite End*/
+
+/* Poultry Farm Lite Start*/
+#eggs-nest-section {position:static !important;}
+#eggs-nest-section .nest-col {width:440px !important; position: absolute; z-index: 2; bottom: 40px;}
+#eggs-nest-section .nest-col:after {content: ''; width: 280px; height: 290px; border: solid 8px #ffc487; position: absolute; top: -50px;  z-index: -1;}
+#eggs-nest-section .egg-title {position: relative; top: 100px; left: 80px;}
+.img-text-box h3 span {font-weight:200; display:block;}
+.img-text-box .elementor-image-box-title {margin:0;}
+.video-title h3 span {font-weight:200; display:block; font-size:30px;}
+.video-box iframe {border-radius:10px;}
+.video-box .elementor-custom-embed-image-overlay {border-radius:10px;}
+.big-title h2{opacity:0.1;}
+@media screen and (max-width:47.938em) and (min-width:20.000em) {
+	#eggs-nest-section {position:relative !important;}
+	#eggs-nest-section .nest-col {width:100% !important; position: static; z-index: 2; bottom: 40px;}
+	#eggs-nest-section .nest-col:after {display:none;}
+	#eggs-nest-section .egg-title {top: 0; left: 0; margin-bottom: 25px;}
+	#eggs-nest-section .egg-title h3 {color:#2a2a2a;}
+	.img-text-box .elementor-image-box-img img{display:inline-block;}
+}
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+	#eggs-nest-section .egg-title {position: absolute !important; bottom: 90px !important; left: 100px !important; z-index: 999999;}
+	#eggs-nest-section .nest-col {width: 350px !important; bottom: 20px !important;}
+	#eggs-nest-section .nest-col::after {display:none !important;}
+	.img-text-box .elementor-image-box-img img{display:inline-block;}
+}
+/* Poultry Farm Lite End*/
+
+/* Ele Wedding Lite Start*/
+.verticle-bar {width: 1px; height: 60px; background-color: #000; margin: 0 auto;}
+.wedding-title-box .elementor-image-box-img img {display:inline-block;}
+.wedding-title-box .elementor-image-box-title {margin:0;}
+/* Ele Wedding Lite End*/
+
+/*Ele Fitness Lite Start*/
+.bodybox{-webkit-transform: skewY(-10deg);-moz-transform: skewY(-10deg);-ms-transform: skewY(-10deg);-o-transform: skewY(-10deg);transform: skewY(-10deg);overflow:hidden;z-index:99999;position:relative;}
+.bodybox .elementor-image{-webkit-transform: skewY(10deg);-moz-transform: skewY(10deg);-ms-transform: skewY(10deg);-o-transform: skewY(10deg);transform: skewY(10deg);}
+.bodybox .elementor-widget-container{overflow:hidden; height:440px;}
+.bodybox .elementor-image img{margin-top:-24px !important;}
+@media screen and (max-width: 29.938em) {
+	.bodybox .elementor-image img{width:100%;}
+}
+/*Ele Fitness Lite End*/
+
+/*Ele Fitness Lite Start*/
+.nature-service-box .elementor-widget-image-box{margin:0 !important;}
+.nature-service-box .elementor-image-box-img img {display:inline-block;}
+.nature-service-box .elementor-image-box-title {margin:0;}
+.nature-offer-box .elementor-image-box-title {margin:0;}
+@media screen and (max-width:47.938em) and (min-width:20.000em) {
+	.nature-offer-box .elementor-heading-title{text-align:center !important;}
+	.nature-offer-box .elementor-divider-separator{display:block !important; margin: 0 auto !important;}
+	.offer-column .elementor-image-box-wrapper {text-align: center !important;}
+}
+/*Ele Fitness Lite End*/
+
+/*Ele eBook Lite Start*/
+.skt-booking-btn{position: relative; top: 50px; z-index: 99;}
+.skt-new-tag .elementor-widget-container{line-height: normal;}
+.skt-new-tag .elementor-widget-container::after{content: ""; border-left: solid 8px #ff7101; border-top: solid 0 transparent; border-bottom: solid 11px transparent; height: 0; width: 0; position: absolute; right: -8px; top: 0px;}
+.skt-new-tag .elementor-widget-container::before{content: ""; border-left: solid 8px #ff7101; border-top: solid 11px transparent; border-bottom: solid 0 transparent; height: 0; width: 0; position: absolute; right: -8px; top: 11px;}
+.skt-new-tag .elementor-heading-title{line-height: normal;}
+/*Ele eBook Lite End*/
+
+/*Ele Product Launch lite Start*/
+#service-box-section .elementor-widget:not(:last-child) {margin-bottom: 0;}
+#revolution-section .elementor-text-editor p {margin-bottom: 0;}
+#app-button .elementor-button {text-align:left;}
+#app-button .elementor-button i {font-size:36px;}
+#app-button .elementor-button strong {font-size:24px; font-weight:600;}
+#app-button .elementor-button .fab {font-family: "Font Awesome 5 Brands" !important;}
+.product-launch-features .elementor-widget-image-box{margin:0 !important;}
+.product-launch-features .elementor-image-box-img img {display:inline-block;}
+.product-launch-features .elementor-image-box-title {margin:0;}
+.product-launch-mobile-app .elementor-image-box-title {margin:0;}
+@media screen and (max-width:47.938em) and (min-width:20.000em) {
+	.product-launch-features .elementor-heading-title{text-align:center !important;}
+	.product-launch-features .elementor-divider-separator{display:block !important; margin: 0 auto !important;}
+	.product-launch-mobile-app .elementor-image-box-wrapper {text-align: center !important;}
+	#app-button .elementor-button-wrapper {text-align: center;}
+}
+/*Ele Product Launch Lite End*/
+
+/*Ele Spa lite Start*/
+#first-box {position:relative; z-index: 12;}
+#first-box:after {content: ''; position: absolute; height: 50px; width: 50px; bottom: -25px; right: -25px; background-color: #fff; border-radius: 100%; z-index: 9;}
+#video-pattern {position:relative;}
+#video-pattern:before {content: ''; position: absolute; height: 100%; width: 50px; bottom: -61px; left: -45px; background-color: #ef8481; z-index: 0;}
+#video-pattern:after {content: ''; position: absolute; height: 100%; width: 50px; bottom: -61px; right: -45px; background-color: #ef8481; z-index: -1;}
+.spa-service-column .elementor-image-box-img img {display:inline-block;}
+.spa-service-column .elementor-image-box-title {margin:0;}
+@media screen and (max-width:47.938em) and (min-width:20.000em) {
+	#video-pattern:before {display:none;}
+	#video-pattern:after {display:none;}
+	#welcome-section h2, #welcome-section h3, #welcome-section p {text-align:center;}
+	#product-section .elementor-widget-wrap {text-align: center;}
+}
+@media screen and (max-width:63.938em) and (min-width:48.000em) {
+	#video-pattern:before {display:none;}
+	#video-pattern:after {display:none;}
+}
+/*Ele Spa Lite End*/
+
+/*High Tech Lite Start*/
+.hightech-services .elementor-image-box-img img, .hightech-repair .elementor-image-box-img img{display:inline-block;}
+.hightech-services .elementor-image-box-title, .hightech-repair .elementor-image-box-title{margin:0;}
+/*High Tech Lite End*/
+
+/*Junk Removal Lite Start*/
+#about-col, #about-outer {position:relative;}
+#about-col:before {content: ''; position: absolute; top: -100px; left: 0; width: 0; height: 0; border-bottom: 100px solid #33cf9f; border-right: 100px solid transparent;}
+#about-col:after {content: ''; position: absolute; bottom: 0; left: 0; width: 0; height: 0; border-bottom: 100px solid #fff; border-right: 100px solid transparent;}
+#about-outer:after {content: ''; position: absolute; bottom: 0; right: 0; width: 0; height: 0; border-top: 36px solid #1c3346;  border-left: 36px solid transparent;}
+#about-section .elementor-image-box-img img, .junkremoval-services .elementor-image-box-img img{display:inline-block;}
+#about-section .elementor-image-box-title, .junkremoval-services .elementor-image-box-title {margin:0;}
+@media screen and (max-width:63.938em) and (min-width:20.000em) {
+	#about-col::before, #about-col::after, #about-outer::after, #video-col-outer::before, #price-col::after {display:none;}
+}
+/*Junk Removal Lite End*/
+/*Ele Pet Lite Start*/
+.petcare-img::after{content: ""; height: 50px; width: 2px; background-color: #01a765; position: absolute; top: -50px;}
+.petcare-img2::after{content: ""; height: 50px; width: 2px; background-color: #01a765; position: absolute; bottom: -50px;}
+.petscare-services .elementor-image-box-img img{display:inline-block;}
+.petscare-services .elementor-image-box-title {margin:0;}
+
+/*Ele Pet Lite End*/
+
+/*Ele Agency Lite Start*/
+.head-bottom-shape {position:relative;}
+.head-bottom-shape:after {content: ''; position: absolute; bottom: -80px; left: 14px; width: 99%; max-width: 1140px; height: 230px; background-color: #f6f6f6; border-top-left-radius: 80px; border-top-right-radius: 100px; transform: skewY(-7deg); z-index: 999;}
+.agency-services .elementor-image-box-img img{display:inline-block !important;}
+.agency-services .elementor-image-box-title {margin:0 !important;}
+.agency-features .elementor-image-box-img img {display:inline-block;}
+.agency-features .elementor-image-box-title {margin:0;}
+
+/*Ele Agency Lite End*/
+
+/*Ele Yoga Lite Start*/
+.skt-yoga-section1 .elementor-image-box-img img{display:inline-block;}
+.skt-yoga-section1 .elementor-image-box-title {margin:0;}
+.skt-yoga-section2 .elementor-image-box-img img{display:inline-block;}
+.skt-yoga-section2 .elementor-image-box-title {margin:0;}
+/*Ele Yoga Lite End*/
+
+/*Local Business Lite Start*/
+.local-business-services .elementor-image-box-img img{display:inline-block;}
+.local-business-services .elementor-image-box-title {margin:0;}
+/*Local Business Lite End*/
+
+/*Ele Fashion Lite*/
+.fashion-services .elementor-image-box-img img{display:inline-block;}
+.fashion-services .elementor-image-box-title {margin:0;}
+/*Ele Fashion Lite End*/
+
+/*Icecream Lite Start*/
+.icecream-services .elementor-image-box-img img{display:inline-block;}
+.icecream-services .elementor-image-box-title {margin:0;}
+.icecream-flavours .elementor-image-box-img img{display:inline-block;}
+.icecream-flavours .elementor-image-box-title {margin:0;}
+/*Icecream Lite End*/
+
+/*Catering Lite Start*/
+.skt-dish-box .elementor-image-box-img{position: relative;}
+.skt-dish-box .elementor-image-box-img:after{content: ""; border-right: solid 12px transparent; border-left: solid 12px transparent; border-bottom: solid 10px #fff; position: absolute; bottom: 0; left: 50%; margin: 0 auto; transform: translateX(-50%); z-index: 99;}
+.skt-dish-box .elementor-image-box-img img{border-radius: 8px; display: block; width: 100%;}
+.skt-dish-box .elementor-image-box-wrapper:hover .elementor-image-box-title{color: #ff6e26 !important;}
+.catering-section1 .elementor-image-box-img img{display:inline-block;}
+.catering-section1 .elementor-image-box-title {margin:0;}
+.catering-section2 .skt-service-box .elementor-image-box-img img{border-radius: 50%; display:inline-block;}
+.catering-section2 .skt-service-box .elementor-image-box-wrapper:hover .elementor-image-box-img img{border: solid 8px #ff6e26; border-radius: 50%;}
+.catering-section2 .elementor-image-box-title {margin:0;}
+/*Catering Lite End*/
+
+/*SKT Plumbing Lite Start*/
+.certificate-box {position:relative;}
+.certificate-box:before{content: ''; position: absolute; right: 40px; top: -50px; border-bottom: 50px solid #e5e5e5; border-right: 50px solid transparent;}
+.certificate-box:after{content: ''; position: absolute; width: 290px; height: 40px; transform: skew(76deg); background: linear-gradient(to top, #eeeeef 0%, #e5e5e5 100%); bottom: -20px; left: 120px;}
+.price-box {position:relative;}
+.price-box:after{content: ''; position: absolute; width: 290px; height: 40px; transform: skew(76deg); background: linear-gradient(to top, #eeeeef 0%, #e5e5e5 100%); bottom: -20px; left: 120px;}
+.open-box {position:relative;}
+.open-box:before {content: ''; position: absolute; left: 40px; bottom: -30px; border-top: 50px solid #e5e5e5; border-left: 50px solid transparent;}
+#offered-column{position:relative;}
+#offered-column:before{content: ''; position: absolute; left: -50px; bottom: -50px; border-top: 50px solid #0084ff; border-left: 50px solid transparent;}
+#offered-column:after{content: ''; position: absolute; right: -50px; bottom: -50px; border-top: 50px solid #0084ff; border-right: 50px solid transparent;}
+.plumbing-section1 .elementor-image-box-img img{display:inline-block;}
+.plumbing-section1 .elementor-image-box-title {margin:0;}
+.plumbing-section2 .elementor-image-box-img img{display:inline-block;}
+.plumbing-section2 .elementor-image-box-title {margin:0;}
+@media (max-width: 1199px){
+    #offered-column::before, #offered-column::after {display:none;}
+    .certificate-box:before{display:none;}
+	.certificate-box:after{display:none;}
+	.price-box:after{display:none;}
+	.open-box:before {display:none;}
+}
+/*SKT Plumbing Lite End*/
+
+/*SKT Recycle Lite Start*/
+.recycling-cont-box:before{width:0; height:0; border-top:125px solid #83a31a; border-right:100px solid transparent; content:""; position:absolute; bottom:-125px; right:0px;}
+.recycle-section1 .elementor-image-box-img img{display:inline-block;}
+.recycle-section1 .elementor-image-box-title {margin:0;}
+.recycle-section2 .elementor-image-box-img img{display:inline-block;}
+.recycle-section2 .elementor-image-box-title {margin:0;}
+.welcome-section .elementor-image-box-description {line-height:0.5;}
+@media screen and (max-width: 29.938em) {
+    .recycling-cont-box:before{ display:none;}
+}
+/*SKT Recycle Lite End*/
+
+/*SKT Pottery Lite Start*/
+.pottery-section1 .elementor-image-box-img img{display:inline-block;}
+.pottery-section1 .elementor-image-box-title {margin:0;}
+.pottery-section1 .elementor-widget-image-box .elementor-widget-container {padding-left:10px !important; padding-right:10px !important;}
+/*SKT Pottery Lite End*/
+
+/*SKT Actor Lite Start*/
+.actor-section2 .elementor-image-box-img img{display:inline-block;}
+.actor-section2 .elementor-image-box-title {margin:0;}
+
+/*SKT Actor Lite End*/
