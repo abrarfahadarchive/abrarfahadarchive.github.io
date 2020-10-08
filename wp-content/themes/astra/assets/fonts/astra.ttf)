@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/themes/astra/assets/fonts/astra.ttf">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/themes/astra/assets/fonts/astra.ttf";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-content/themes/astra/assets/fonts/astra.ttf">/wp-content/themes/astra/assets/fonts/astra.ttf</a></p>
+	</body>
+</html>
