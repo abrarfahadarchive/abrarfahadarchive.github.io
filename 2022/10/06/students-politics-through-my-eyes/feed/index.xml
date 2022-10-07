@@ -1,25 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US">
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<head>
+		<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+				<link rel="profile" href="https://gmpg.org/xfn/11">
 
-	<title>আমার চোখে বুয়েটের ছাত্ররাজনীতি &#8211; Abrar Fahad Archive</title>
-	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-	<link rel='dns-prefetch' href='//s.w.org' />
-	<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; Feed" href="/feed/" />
-	<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; Comments Feed"
-		href="/comments/feed/" />
-	<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; আমার চোখে বুয়েটের ছাত্ররাজনীতি Comments Feed"
-		href="/2022/10/06/students-politics-through-my-eyes/feed/" />
-	<link rel='stylesheet' id='otw_grid_manager-css'
-		href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_grid_manager_light/css/otw-grid.css?ver=0.1'
-		media='all' />
-	<link rel='stylesheet' id='astra-theme-css-css'
-		href='/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.5.5' media='all' />
-	<style id='astra-theme-css-inline-css'>
+					<title>আমার চোখে বুয়েটের ছাত্ররাজনীতি &#8211; Abrar Fahad Archive</title>
+					<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+					<link rel='dns-prefetch' href='//s.w.org' />
+					<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; Feed" href="/feed/" />
+					<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; Comments Feed" href="/comments/feed/" />
+					<link rel="alternate" type="application/rss+xml" title="Abrar Fahad Archive &raquo; আমার চোখে বুয়েটের ছাত্ররাজনীতি Comments Feed" href="/2022/10/06/students-politics-through-my-eyes/feed/" />
+					<link rel='stylesheet' id='otw_grid_manager-css' href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_grid_manager_light/css/otw-grid.css?ver=0.1' media='all' />
+					<link rel='stylesheet' id='astra-theme-css-css' href='/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.5.5' media='all' />
+					<style id='astra-theme-css-inline-css'>
 		html {
 			font-size: 93.75%;
 		}
@@ -214,26 +209,9 @@
 		.main-header-menu .current-menu-ancestor>.menu-link,
 		.main-header-menu .current-menu-item>.ast-menu-toggle,
 		.main-header-menu .current-menu-ancestor>.ast-menu-toggle {
-			color: #a50000;
-		}
-
-		input:focus,
-		input[type="text"]:focus,
-		input[type="email"]:focus,
-		input[type="url"]:focus,
-		input[type="password"]:focus,
-		input[type="reset"]:focus,
-		input[type="search"]:focus,
+			color: #a50000; } input:focus, input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="reset"]:focus, input[type="search"]:focus,
 		textarea:focus {
-			border-color: #a50000;
-		}
-
-		input[type="radio"]:checked,
-		input[type=reset],
-		input[type="checkbox"]:checked,
-		input[type="checkbox"]:hover:checked,
-		input[type="checkbox"]:focus:checked,
-		input[type=range]::-webkit-slider-thumb {
+			border-color: #a50000; } input[type="radio"]:checked, input[type=reset], input[type="checkbox"]:checked, input[type="checkbox"]:hover:checked, input[type="checkbox"]:focus:checked, input[type=range]::-webkit-slider-thumb {
 			border-color: #a50000;
 			background-color: #a50000;
 			box-shadow: none;
@@ -625,18 +603,7 @@
 		.wp-block-button .wp-block-button__link:focus {
 			color: #ffffff;
 			background-color: #3a3a3a;
-			border-color: #3a3a3a;
-		}
-
-		.menu-toggle,
-		button,
-		.ast-button,
-		.ast-custom-button,
-		.button,
-		input#submit,
-		input[type="button"],
-		input[type="submit"],
-		input[type="reset"] {
+			border-color: #3a3a3a; } .menu-toggle, button, .ast-button, .ast-custom-button, .button, input#submit, input[type="button"], input[type="submit"], input[type="reset"] {
 			border-style: solid;
 			border-top-width: 0;
 			border-right-width: 0;
@@ -652,22 +619,7 @@
 			padding-left: 40px;
 			font-family: 'Hind Siliguri', sans-serif;
 			font-weight: inherit;
-			line-height: 1;
-		}
-
-		button:focus,
-		.menu-toggle:hover,
-		button:hover,
-		.ast-button:hover,
-		.button:hover,
-		input[type=reset]:hover,
-		input[type=reset]:focus,
-		input#submit:hover,
-		input#submit:focus,
-		input[type="button"]:hover,
-		input[type="button"]:focus,
-		input[type="submit"]:hover,
-		input[type="submit"]:focus {
+			line-height: 1; } button:focus, .menu-toggle:hover, button:hover, .ast-button:hover, .button:hover, input[type=reset]:hover, input[type=reset]:focus, input#submit:hover, input#submit:focus, input[type="button"]:hover, input[type="button"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
 			color: #ffffff;
 			background-color: #3a3a3a;
 			border-color: #3a3a3a;
@@ -1023,287 +975,220 @@
 			padding: 0;
 			margin: 0;
 		}
-	</style>
-	<link rel='stylesheet' id='astra-google-fonts-css'
-		href='//fonts.googleapis.com/css?family=Hind+Siliguri%3A400%2C300%2C500%2C600%2C700&#038;display=fallback&#038;ver=2.5.5'
-		media='all' />
-	<link rel='stylesheet' id='astra-menu-animation-css'
-		href='/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.5.5' media='all' />
-	<link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='wp-components-css' href='/wp-includes/css/dist/components/style.min.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='wp-editor-font-css'
-		href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&#038;ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='wp-block-editor-css' href='/wp-includes/css/dist/block-editor/style.min.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='wp-nux-css' href='/wp-includes/css/dist/nux/style.min.css?ver=5.5.1' media='all' />
-	<link rel='stylesheet' id='wp-editor-css' href='/wp-includes/css/dist/editor/style.min.css?ver=5.5.1' media='all' />
-	<link rel='stylesheet' id='embedpress_blocks-cgb-style-css-css'
-		href='/wp-content/plugins/embedpress/Gutenberg/dist/blocks.style.build.css?ver=5.5.1' media='all' />
-	<link rel='stylesheet' id='contact-form-7-css'
-		href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' media='all' />
-	<link rel='stylesheet' id='astra-contact-form-7-css'
-		href='/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7.min.css?ver=2.5.5'
-		media='all' />
-	<link rel='stylesheet' id='embedpress-css' href='/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='templaters-css' href='/wp-content/plugins/skt-templates/css/templaters.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='hfe-style-css'
-		href='/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.3'
-		media='all' />
-	<link rel='stylesheet' id='elementor-icons-css'
-		href='/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
-	<link rel='stylesheet' id='elementor-animations-css'
-		href='/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.10' media='all' />
-	<link rel='stylesheet' id='elementor-frontend-legacy-css'
-		href='/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.10' media='all' />
-	<link rel='stylesheet' id='elementor-frontend-css'
-		href='/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.10' media='all' />
-	<link rel='stylesheet' id='elementor-post-2365-css'
-		href='/wp-content/uploads/elementor/css/post-2365.css?ver=1602050686' media='all' />
-	<link rel='stylesheet' id='embedpress-elementor-css-css'
-		href='/wp-content/plugins/embedpress/assets/css/embedpress-elementor.css?ver=2.6.1' media='all' />
-	<link rel='stylesheet' id='elementor-global-css' href='/wp-content/uploads/elementor/css/global.css?ver=1602050686'
-		media='all' />
-	<link rel='stylesheet' id='elementor-post-1761-css'
-		href='/wp-content/uploads/elementor/css/post-1761.css?ver=1602050686' media='all' />
-	<link rel='stylesheet' id='hfe-widgets-style-css'
-		href='/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.3' media='all' />
-	<link rel='stylesheet' id='otw-pct-font-awesome-css'
-		href='/wp-content/plugins/post-custom-templates-lite/css/font-awesome.min.css?ver=0.1' media='all' />
-	<link rel='stylesheet' id='otw_pct-css'
-		href='/wp-content/plugins/post-custom-templates-lite/css/otw_pctl.css?ver=0.1' media='all' />
-	<link rel='stylesheet' id='__EPYT__style-css'
-		href='/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4.1.1' media='all' />
-	<style id='__EPYT__style-inline-css'>
+					</style>
+					<link rel='stylesheet' id='astra-google-fonts-css' href='//fonts.googleapis.com/css?family=Hind+Siliguri%3A400%2C300%2C500%2C600%2C700&#038;display=fallback&#038;ver=2.5.5' media='all' />
+					<link rel='stylesheet' id='astra-menu-animation-css' href='/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.5.5' media='all' />
+					<link rel='stylesheet' id='wp-block-library-css' href='/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='wp-components-css' href='/wp-includes/css/dist/components/style.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='wp-editor-font-css' href='https://fonts.googleapis.com/css?family=Noto+Serif%3A400%2C400i%2C700%2C700i&#038;ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='wp-block-editor-css' href='/wp-includes/css/dist/block-editor/style.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='wp-nux-css' href='/wp-includes/css/dist/nux/style.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='wp-editor-css' href='/wp-includes/css/dist/editor/style.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='embedpress_blocks-cgb-style-css-css' href='/wp-content/plugins/embedpress/Gutenberg/dist/blocks.style.build.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='contact-form-7-css' href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' media='all' />
+					<link rel='stylesheet' id='astra-contact-form-7-css' href='/wp-content/themes/astra/assets/css/minified/compatibility/contact-form-7.min.css?ver=2.5.5' media='all' />
+					<link rel='stylesheet' id='embedpress-css' href='/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='templaters-css' href='/wp-content/plugins/skt-templates/css/templaters.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='hfe-style-css' href='/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.3' media='all' />
+					<link rel='stylesheet' id='elementor-icons-css' href='/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+					<link rel='stylesheet' id='elementor-animations-css' href='/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.10' media='all' />
+					<link rel='stylesheet' id='elementor-frontend-legacy-css' href='/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.10' media='all' />
+					<link rel='stylesheet' id='elementor-frontend-css' href='/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.10' media='all' />
+					<link rel='stylesheet' id='elementor-post-2365-css' href='/wp-content/uploads/elementor/css/post-2365.css?ver=1602050686' media='all' />
+					<link rel='stylesheet' id='embedpress-elementor-css-css' href='/wp-content/plugins/embedpress/assets/css/embedpress-elementor.css?ver=2.6.1' media='all' />
+					<link rel='stylesheet' id='elementor-global-css' href='/wp-content/uploads/elementor/css/global.css?ver=1602050686' media='all' />
+					<link rel='stylesheet' id='elementor-post-1761-css' href='/wp-content/uploads/elementor/css/post-1761.css?ver=1602050686' media='all' />
+					<link rel='stylesheet' id='hfe-widgets-style-css' href='/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.3' media='all' />
+					<link rel='stylesheet' id='otw-pct-font-awesome-css' href='/wp-content/plugins/post-custom-templates-lite/css/font-awesome.min.css?ver=0.1' media='all' />
+					<link rel='stylesheet' id='otw_pct-css' href='/wp-content/plugins/post-custom-templates-lite/css/otw_pctl.css?ver=0.1' media='all' />
+					<link rel='stylesheet' id='__EPYT__style-css' href='/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=13.4.1.1' media='all' />
+					<style id='__EPYT__style-inline-css'>
 		.epyt-gallery-thumb {
 			width: 33.333%;
 		}
-	</style>
-	<link rel='stylesheet' id='otw_post_template_otw-shortcode-font-awesome-css'
-		href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/css/font-awesome.min.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='otw_post_template_otw-shortcode-css'
-		href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/css/otw_shortcode.css?ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='google-fonts-1-css'
-		href='https://fonts.googleapis.com/css?family=Hind+Siliguri%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLexend+Deca%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1'
-		media='all' />
-	<link rel='stylesheet' id='elementor-icons-shared-0-css'
-		href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
-	<link rel='stylesheet' id='elementor-icons-fa-brands-css'
-		href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
-	<link rel='stylesheet' id='elementor-icons-fa-solid-css'
-		href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
-	<link rel='stylesheet' id='elementor-icons-fa-regular-css'
-		href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' />
-	<!--[if IE]>
+					</style>
+					<link rel='stylesheet' id='otw_post_template_otw-shortcode-font-awesome-css' href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/css/font-awesome.min.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='otw_post_template_otw-shortcode-css' href='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/css/otw_shortcode.css?ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Hind+Siliguri%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLexend+Deca%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.1' media='all' />
+					<link rel='stylesheet' id='elementor-icons-shared-0-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+					<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.12.0' media='all' />
+					<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+					<link rel='stylesheet' id='elementor-icons-fa-regular-css' href='/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.12.0' media='all' />
+					<!--[if IE]>
 <script src='/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.5.5' id='astra-flexibility-js'></script>
 <script id='astra-flexibility-js-after'>
 flexibility(document.documentElement);
 </script>
 <![endif]-->
-	<script src='/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
-	<script src='/wp-content/plugins/embedpress/assets/js/pdfobject.min.js?ver=2.6.1'
-		id='embedpress-pdfobject-js'></script>
-	<script src='/wp-content/plugins/post-custom-templates-lite/js/jquery.flexslider.min.js?ver=0.1'
-		id='otw-pctl-flexslider-js'></script>
-	<script src='/wp-content/plugins/post-custom-templates-lite/js/imagesloaded.pkgd.min.js?ver=0.1'
-		id='otw-pctl-imagesloaded-js'></script>
-	<script src='/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
-	<script src='/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
-	<script src='/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4' id='jquery-ui-tabs-js'></script>
-	<script id='otw-pctl-js-extra'>
+					<script src='/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+					<script src='/wp-content/plugins/embedpress/assets/js/pdfobject.min.js?ver=2.6.1' id='embedpress-pdfobject-js'></script>
+					<script src='/wp-content/plugins/post-custom-templates-lite/js/jquery.flexslider.min.js?ver=0.1' id='otw-pctl-flexslider-js'></script>
+					<script src='/wp-content/plugins/post-custom-templates-lite/js/imagesloaded.pkgd.min.js?ver=0.1' id='otw-pctl-imagesloaded-js'></script>
+					<script src='/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+					<script src='/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+					<script src='/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4' id='jquery-ui-tabs-js'></script>
+					<script id='otw-pctl-js-extra'>
 		var socialShareURL = "\/wp-admin\/admin-ajax.php?action=otw_pctl_social_share&nonce=8112751330";
-	</script>
-	<script src='/wp-content/plugins/post-custom-templates-lite/js/otw_pctl.js?ver=0.1' id='otw-pctl-js'></script>
-	<script id='__ytprefs__-js-extra'>
+					</script>
+					<script src='/wp-content/plugins/post-custom-templates-lite/js/otw_pctl.js?ver=0.1' id='otw-pctl-js'></script>
+					<script id='__ytprefs__-js-extra'>
 		var _EPYT_ = { "ajaxurl": "\/wp-admin\/admin-ajax.php", "security": "6542d8d4b6", "gallery_scrolloffset": "20", "eppathtoscripts": "\/wp-content\/plugins\/youtube-embed-plus\/scripts\/", "eppath": "\/wp-content\/plugins\/youtube-embed-plus\/", "epresponsiveselector": "[\"iframe.__youtube_prefs_widget__\"]", "epdovol": "1", "version": "13.4.1.1", "evselector": "iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]", "ajax_compat": "", "ytapi_load": "light", "pause_others": "", "stopMobileBuffer": "1", "vi_active": "", "vi_js_posttypes": [] };
-	</script>
-	<script src='/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4.1.1'
-		id='__ytprefs__-js'></script>
-	<script
-		src='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/js/otw_shortcode_core.js?ver=5.5.1'
-		id='otw_post_template_otw-shortcode-core-js'></script>
-	<script
-		src='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/js/otw_shortcode.js?ver=5.5.1'
-		id='otw_post_template_otw-shortcode-js'></script>
-	<link rel="https://api.w.org/" href="/wp-json/" />
-	<link rel="alternate" type="application/json" href="/wp-json/wp/v2/posts/2330" />
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
-	<link rel='prev' title='২ নভেম্বর, ২০১৯' href='/2020/10/05/2-nov-2019/' />
-	<meta name="generator" content="WordPress 5.5.1" />
-	<link rel="canonical" href="/2022/10/06/students-politics-through-my-eyes/" />
-	<link rel='shortlink' href='/?p=2330' />
-	<link rel="alternate" type="application/json+oembed"
-		href="/wp-json/oembed/1.0/embed?url=%2F2020%2F10%2F06%2Ftale-of-freedom%2F" />
-	<link rel="alternate" type="text/xml+oembed"
-		href="/wp-json/oembed/1.0/embed?url=%2F2020%2F10%2F06%2Ftale-of-freedom%2F&#038;format=xml" />
-	<!-- <meta name="NextGEN" version="3.3.17" /> -->
-	<link rel="pingback" href="/xmlrpc.php">
-	<style>
+					</script>
+					<script src='/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=13.4.1.1' id='__ytprefs__-js'></script>
+					<script src='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/js/otw_shortcode_core.js?ver=5.5.1' id='otw_post_template_otw-shortcode-core-js'></script>
+					<script src='/wp-content/plugins/post-custom-templates-lite/include/otw_components/otw_post_template_shortcode/js/otw_shortcode.js?ver=5.5.1' id='otw_post_template_otw-shortcode-js'></script>
+					<link rel="https://api.w.org/" href="/wp-json/" />
+					<link rel="alternate" type="application/json" href="/wp-json/wp/v2/posts/2330" />
+					<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+					<link rel='prev' title='২ নভেম্বর, ২০১৯' href='/2020/10/05/2-nov-2019/' />
+					<meta name="generator" content="WordPress 5.5.1" />
+					<link rel="canonical" href="/2022/10/06/students-politics-through-my-eyes/" />
+					<link rel='shortlink' href='/?p=2330' />
+					<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=%2F2020%2F10%2F06%2Ftale-of-freedom%2F" />
+					<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=%2F2020%2F10%2F06%2Ftale-of-freedom%2F&#038;format=xml" />
+					<!-- <meta name="NextGEN" version="3.3.17" /> -->
+					<link rel="pingback" href="/xmlrpc.php">
+						<style>
 		.recentcomments a {
 			display: inline !important;
 			padding: 0 !important;
 			margin: 0 !important;
 		}
-	</style>
-</head>
+						</style>
+					</head>
 
-<body itemtype='https://schema.org/Blog' itemscope='itemscope'
-	class="post-template-default single single-post postid-2330 single-format-standard wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-separate-container ast-no-sidebar astra-2.5.5 ast-header-custom-item-inside ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-normal-title-enabled elementor-default elementor-kit-2365">
+					<body itemtype='https://schema.org/Blog' itemscope='itemscope' class="post-template-default single single-post postid-2330 single-format-standard wp-custom-logo ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-separate-container ast-no-sidebar astra-2.5.5 ast-header-custom-item-inside ast-blog-single-style-1 ast-single-post ast-inherit-site-logo-transparent ast-normal-title-enabled elementor-default elementor-kit-2365">
 
-	<div class="hfeed site" id="page">
-		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-
-
-
-		<header
-			class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline"
-			id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
+						<div class="hfeed site" id="page">
+							<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
 
 
-			<div class="main-header-bar-wrap">
-				<div class="main-header-bar">
-					<div class="ast-container">
-
-						<div class="ast-flex main-header-container">
-
-							<div class="site-branding">
-								<div class="ast-site-identity" itemtype="https://schema.org/Organization"
-									itemscope="itemscope">
-									<span class="site-logo-img"><a href="/" class="custom-logo-link" rel="home"><img
-												width="330" height="47"
-												src="/wp-content/uploads/2020/10/abarchive-01-330x47.png"
-												class="custom-logo" alt="Abrar Fahad Archive"
-												srcset="/wp-content/uploads/2020/10/abarchive-01-330x47.png 330w, /wp-content/uploads/2020/10/abarchive-01-300x42.png 300w, /wp-content/uploads/2020/10/abarchive-01-1024x144.png 1024w, /wp-content/uploads/2020/10/abarchive-01-768x108.png 768w, /wp-content/uploads/2020/10/abarchive-01-1536x217.png 1536w, /wp-content/uploads/2020/10/abarchive-01-2048x289.png 2048w"
-												sizes="(max-width: 330px) 100vw, 330px" /></a></span>
-								</div>
-							</div>
-
-							<!-- .site-branding -->
-							<div class="ast-mobile-menu-buttons">
+							<header class="site-header ast-primary-submenu-animation-fade header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
 
 
-								<div class="ast-button-wrap">
-									<button type="button"
-										class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal"
-										aria-controls='primary-menu' aria-expanded='false'>
-										<span class="screen-reader-text">Main Menu</span>
-										<span class="menu-toggle-icon"></span>
-									</button>
-								</div>
+
+								<div class="main-header-bar-wrap">
+									<div class="main-header-bar">
+										<div class="ast-container">
+
+											<div class="ast-flex main-header-container">
+
+												<div class="site-branding">
+													<div class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope">
+														<span class="site-logo-img">
+															<a href="/" class="custom-logo-link" rel="home">
+																<img width="330" height="47" src="/wp-content/uploads/2020/10/abarchive-01-330x47.png" class="custom-logo" alt="Abrar Fahad Archive" srcset="/wp-content/uploads/2020/10/abarchive-01-330x47.png 330w, /wp-content/uploads/2020/10/abarchive-01-300x42.png 300w, /wp-content/uploads/2020/10/abarchive-01-1024x144.png 1024w, /wp-content/uploads/2020/10/abarchive-01-768x108.png 768w, /wp-content/uploads/2020/10/abarchive-01-1536x217.png 1536w, /wp-content/uploads/2020/10/abarchive-01-2048x289.png 2048w" sizes="(max-width: 330px) 100vw, 330px" />
+															</a>
+														</span>
+													</div>
+												</div>
+
+												<!-- .site-branding -->
+												<div class="ast-mobile-menu-buttons">
 
 
-							</div>
-							<div class="ast-main-header-bar-alignment">
-								<div class="main-header-bar-navigation">
-									<nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation"
-										aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement"
-										itemscope="itemscope">
-										<div class="main-navigation">
-											<ul id="primary-menu"
-												class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade">
-												<li id="menu-item-1763"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1763">
-													<a href="/" class="menu-link">Home</a>
-												</li>
-												<li id="menu-item-45"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45">
-													<a href="/bio/" class="menu-link">Bio</a>
-												</li>
-												<li id="menu-item-1899"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899">
-													<a href="/photos/" class="menu-link">Photos</a>
-												</li>
-												<li id="menu-item-2152"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152">
-													<a href="/videos/" class="menu-link">Videos</a>
-												</li>
-												<li id="menu-item-1863"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1863">
-													<a href="/blogs/" class="menu-link">Blogs</a>
-												</li>
-												<li id="menu-item-2282"
-													class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282">
-													<a href="/updates/" class="menu-link">Updates</a>
-												</li>
-											</ul>
-										</div>
-									</nav>
-								</div>
-							</div>
-						</div><!-- Main Header Container -->
-					</div><!-- ast-row -->
-				</div> <!-- Main Header Bar -->
-			</div> <!-- Main Header Bar Wrap -->
+													<div class="ast-button-wrap">
+														<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal" aria-controls='primary-menu' aria-expanded='false'>
+															<span class="screen-reader-text">Main Menu</span>
+															<span class="menu-toggle-icon"></span>
+														</button>
+													</div>
 
 
-		</header><!-- #masthead -->
+												</div>
+												<div class="ast-main-header-bar-alignment">
+													<div class="main-header-bar-navigation">
+														<nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+															<div class="main-navigation">
+																<ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade">
+																	<li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1763">
+																		<a href="/" class="menu-link">Home</a>
+																	</li>
+																	<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45">
+																		<a href="/bio/" class="menu-link">Bio</a>
+																	</li>
+																	<li id="menu-item-1899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899">
+																		<a href="/photos/" class="menu-link">Photos</a>
+																	</li>
+																	<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152">
+																		<a href="/videos/" class="menu-link">Videos</a>
+																	</li>
+																	<li id="menu-item-1863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1863">
+																		<a href="/blogs/" class="menu-link">Blogs</a>
+																	</li>
+																	<li id="menu-item-2282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2282">
+																		<a href="/updates/" class="menu-link">Updates</a>
+																	</li>
+																</ul>
+															</div>
+														</nav>
+													</div>
+												</div>
+											</div>											<!-- Main Header Container -->
+										</div>										<!-- ast-row -->
+									</div>									<!-- Main Header Bar -->
+								</div>								<!-- Main Header Bar Wrap -->
+
+
+							</header>							<!-- #masthead -->
 
 
 
 
-		<div id="content" class="site-content">
+							<div id="content" class="site-content">
 
-			<div class="ast-container">
+								<div class="ast-container">
 
-				<!-- Wrapper with sidebar -->
-				<div class="otw-row">
-					<section class="otw-twentyfour otw-columns">
-						<div class="otw_gm_content" id="otwct_2330">
-							<div class="otw-row">
-								<div class="otw-sixteen otw-columns">
-									<figure class="otw_post_content-media otw_post_content-format-image">
-										<img src="/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_650X580_c_c_0_0.jpg"
-											alt="" title="" />
-									</figure>
-								</div>
-								<div class="otw-eight otw-columns end">
-									<!-- Blog Title -->
-									<div class="otw_post_content-blog-title-wrapper otw_post_content-format-image">
-										<h1 class="otw_post_content-blog-title">আমার চোখে বুয়েটের ছাত্ররাজনীতি</h1>
-									</div>
-									<!-- End Blog Title -->
-								</div>
-							</div>
-							<div class="otw-row">
-								<div class="otw-eight otw-columns">
-									<!-- Social Share Buttons -->
-									<h3 class="otw_post_content-mb25">
+									<!-- Wrapper with sidebar -->
+									<div class="otw-row">
+										<section class="otw-twentyfour otw-columns">
+											<div class="otw_gm_content" id="otwct_2330">
+												<div class="otw-row">
+													<div class="otw-sixteen otw-columns">
+														<figure class="otw_post_content-media otw_post_content-format-image">
+															<img src="/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_650X580_c_c_0_0.jpg" alt="" title="" />
+														</figure>
+													</div>
+													<div class="otw-eight otw-columns end">
+														<!-- Blog Title -->
+														<div class="otw_post_content-blog-title-wrapper otw_post_content-format-image">
+															<h1 class="otw_post_content-blog-title">আমার চোখে বুয়েটের ছাত্ররাজনীতি</h1>
+														</div>
+														<!-- End Blog Title -->
+													</div>
+												</div>
+												<div class="otw-row">
+													<div class="otw-eight otw-columns">
+														<!-- Social Share Buttons -->
+														<h3 class="otw_post_content-mb25">
 										Hey, like this? Why not share it with a buddy? </h3>
-									<div class="otw_post_content-social-share-buttons-wrapper otw_post_content-social-wrapper  pm_clearfix"
-										data-title="আমার চোখে বুয়েটের ছাত্ররাজনীতি" data-description="বুয়েটে"
-										data-image="/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_1024X640_c_c_1_FFFFFF.jpg"
-										data-url="/2022/10/06/students-politics-through-my-eyes/">
+														<div class="otw_post_content-social-share-buttons-wrapper otw_post_content-social-wrapper  pm_clearfix" data-title="আমার চোখে বুয়েটের ছাত্ররাজনীতি" data-description="বুয়েটে" data-image="/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_1024X640_c_c_1_FFFFFF.jpg" data-url="/2022/10/06/students-politics-through-my-eyes/">
 
-										<a class="otw_post_content-social-item otw-facebook" target="_blank"
-											href="http://www.facebook.com/sharer.php?u=/2022/10/06/students-politics-through-my-eyes/"><i
-												class="icon-facebook" href=""></i></a>
-										<a class="otw_post_content-social-item otw-twitter" target="_blank"
-											href="https://twitter.com/intent/tweet?source=tweetbutton&amp;text=আমার চোখে বুয়েটের ছাত্ররাজনীতি&amp;url=/2022/10/06/students-politics-through-my-eyes/"><i
-												class="icon-twitter" href=""></i></a>
-										<a class="otw_post_content-social-item otw-google_plus" target="_blank"
-											href="https://plus.google.com/share?url=/2022/10/06/students-politics-through-my-eyes/"><i
-												class="icon-google-plus" href=""></i></a>
-										<a class="otw_post_content-social-item otw-linkedin" target="_blank"
-											href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/2022/10/06/students-politics-through-my-eyes/&amp;title=আমার চোখে বুয়েটের ছাত্ররাজনীতি&amp;summary=বুয়েটে"><i
-												class="icon-linkedin" href=""></i></a>
-										<a class="otw_post_content-social-item otw-pinterest" target="_blank"
-											href="http://pinterest.com/pin/create/button/?url=/2022/10/06/students-politics-through-my-eyes/&amp;media=/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_1024X640_c_c_1_FFFFFF.jpg&amp;description=বুয়েটে&amp;title=আমার চোখে বুয়েটের ছাত্ররাজনীতি"><i
-												class="icon-pinterest" href=""></i></a>
-									</div>
-									<!-- End Social Share Buttons  -->
-								</div>
-								<div class="otw-sixteen otw-columns end">
-									<div class="otw_post-post-content">
-										<p>
-											<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">৭ অক্টোবর, ২০১৯। যখন পুরো বুয়েট ক্যাম্পাস আসন্ন
+															<a class="otw_post_content-social-item otw-facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=/2022/10/06/students-politics-through-my-eyes/">
+																<i class="icon-facebook" href=""></i>
+															</a>
+															<a class="otw_post_content-social-item otw-twitter" target="_blank" href="https://twitter.com/intent/tweet?source=tweetbutton&amp;text=আমার চোখে বুয়েটের ছাত্ররাজনীতি&amp;url=/2022/10/06/students-politics-through-my-eyes/">
+																<i class="icon-twitter" href=""></i>
+															</a>
+															<a class="otw_post_content-social-item otw-google_plus" target="_blank" href="https://plus.google.com/share?url=/2022/10/06/students-politics-through-my-eyes/">
+																<i class="icon-google-plus" href=""></i>
+															</a>
+															<a class="otw_post_content-social-item otw-linkedin" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=/2022/10/06/students-politics-through-my-eyes/&amp;title=আমার চোখে বুয়েটের ছাত্ররাজনীতি&amp;summary=বুয়েটে">
+																<i class="icon-linkedin" href=""></i>
+															</a>
+															<a class="otw_post_content-social-item otw-pinterest" target="_blank" href="http://pinterest.com/pin/create/button/?url=/2022/10/06/students-politics-through-my-eyes/&amp;media=/wp-content/uploads/otwpct/tmb/photo-1539581339036-677179dae820_1602002769_1024X640_c_c_1_FFFFFF.jpg&amp;description=বুয়েটে&amp;title=আমার চোখে বুয়েটের ছাত্ররাজনীতি">
+																<i class="icon-pinterest" href=""></i>
+															</a>
+														</div>
+														<!-- End Social Share Buttons  -->
+													</div>
+													<div class="otw-sixteen otw-columns end">
+														<div class="otw_post-post-content">
+															<p>
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">৭ অক্টোবর, ২০১৯। যখন পুরো বুয়েট ক্যাম্পাস আসন্ন
 											টার্ম ফাইনালের প্রস্তুতিতে ব্যস্ত, এক ভয়াল কালো রাত নেমে আসলো শেরে বাংলা
 											হলে। ২ তালার সিড়ির ল্যান্ডিং এ পাওয়া গেল ইলেকট্রিকাল দ্বিতীয় বর্ষের ছাত্র
 											আবরার ফাহাদের লাশ! জানা গেল শিবির সন্দেহে বুয়েটের তৎকালীন ছাত্র লীগের একদল
@@ -1314,11 +1199,14 @@ flexibility(document.documentElement);
 											স্টাডি হয়ে থাকবে। ৩১ মার্চ, ২০১৮ তে ক্লাস শুরু থেকে ১২ অক্টোবর, ২০২১ পর্যন্ত
 											আমার অব্জারভেশনে যে ব্যপারগুলো উঠে এসেছে তার আলোকে এই রাজনীতির ব্যপারগুলোকে
 											ব্যাখ্যা করব। ব্যাখ্যাগুলো আমার নিজস্ব মতামত, কারো দ্বিমত থাকতেই পারে, এতে
-											কন্সট্রাক্টিভ আলোচনার আশা করছি। </p><br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">সবার আগে conformity এর ব্যপারে কিছু কথা বলা উচিত
+											কন্সট্রাক্টিভ আলোচনার আশা করছি। </p>
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">সবার আগে conformity এর ব্যপারে কিছু কথা বলা উচিত
 											বলে মনে করি। কন্সেপ্টটা খুব সিম্পল, একদম bookish definition বলা যেতে পারে
 											এভাবে, “Conformity is the process whereby people change their beliefs,
 											attitudes, actions, or perceptions to more closely match those held by
@@ -1330,11 +1218,13 @@ flexibility(document.documentElement);
 											ব্যপারটা ন্যায়, তখন খুব দুর্বল জাস্টিফিকেশন দিলেও আপনি ব্যপারটিতে সায় দিবেন,
 											আপনার নিজস্ব moral ground পরিবর্তন করবেন। বুয়েটের রাজনীতিকে যতটুকু দেখেছি,
 											এই কনফর্মিটি ব্যপারটা একটা ভাইটাল রোল প্লে করেছে বলে আমি বিশ্বাস করি।</p>
-										<br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">৩১ মার্চ, ২০১৮। আমাদের ব্যাচের প্রথম ক্লাস।
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">৩১ মার্চ, ২০১৮। আমাদের ব্যাচের প্রথম ক্লাস।
 											ক্লাস শেষে জানলাম হল থেকে দুপুরে ছাত্র লীগের মিছিলে নিয়ে যাওয়া হবে জুনিয়র
 											ব্যাচের সবাইকে। উদ্দেশ্য জুনিয়র ব্যাচকে বুয়েট শাখা ছাত্র লীগের সাথে ইনভলভ
 											করা। সেদিন প্রথম জানলাম যে বুয়েটের মাটি ছাত্র লীগের ঘাঁটি। একটা আস্ত
@@ -1350,11 +1240,14 @@ flexibility(document.documentElement);
 											হবে। অতএব, যত ব্যস্ততাই থাকুক, যত পড়াশুনা পরীক্ষা যাই থাকুক, মিছিলে অংশগ্রহণ
 											করতে হবেই! বলা বাহুল্য, এই মিছিলগুলোতে জুনিয়রদের এমন জোর করে পার্টিসিপেশন না
 											করালে তাদের খুব বেশি মানুষ মিছিলে হতই না কখনো!
-										</p><br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">একদম বুয়েট জীবনের শুরুর ঘটনা, বুয়েট অডিটোরিয়ামে
+																</p>
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">একদম বুয়েট জীবনের শুরুর ঘটনা, বুয়েট অডিটোরিয়ামে
 											তখনকার ছাত্র লীগের প্রেসিডেন্ট আসবে। এটা গোলাম রব্বানী আর শোভনের আমলের আগের
 											ঘটনা। হল থেকে সবাইকে একে একে ডেকে আনা হলো করিডরে, লাইন ধরে নিয়ে যাওয়া হলো
 											অডির সামনে। অডির সামনে উপস্থিত সবাই যখন অপেক্ষা করছি, একদম হুট করে সেখানেই
@@ -1367,11 +1260,14 @@ flexibility(document.documentElement);
 											কিন্তু এটুকু জানি, বুয়েটের ছাত্র লীগের দুই কোরামের মধ্যে ক্ষমতা নিয়ে
 											টানাটানি থেকে এর উৎপত্তি। কথা হলো, গ্যাঞ্জামের কারণ আমার জানার দরকার নাই।
 											কিন্তু জুনিয়র অবস্থায় যখন ক্যাম্পাসের কালচার বুঝে উঠতে আমাদের তখনও অনেকদিন
-											বাকি, এসময়ে এমন এক ঘটনা আমাদের জন্য প্রচন্ডরকম ভীতিকর ছিল।</p><br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">হলগুলোতে রাজনীতির খাতায় নাম লেখানো মানুষ থাকতো
+											বাকি, এসময়ে এমন এক ঘটনা আমাদের জন্য প্রচন্ডরকম ভীতিকর ছিল।</p>
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">হলগুলোতে রাজনীতির খাতায় নাম লেখানো মানুষ থাকতো
 											অনেক বেশি। কারণ একদম জুনিয়রকাল থেকেই রাজনৈতিক বড় ভাইরা এসে বুয়েটের
 											brotherhood নিয়ে কথা বলত, কেন বুয়েটে রাজনীতি দরকার এসব ব্যপারে খুব দুর্বল
 											জাস্টিফিকেশন দিত। আমি তো এক বড় ভাইকে এটাও বলতে শুনেছিলাম যে, “সিস্টেম চেঞ্জ
@@ -1383,11 +1279,13 @@ flexibility(document.documentElement);
 											ফলাফল, জুনিয়র ব্যাচগুলো, যারা কিনা বুয়েটের শুরু থেকে এই রাজনৈতিক ভাইদেরকে
 											সামনে দেখে গেছে, তারা বেশিরভাগ নাম লিখাত ছাত্র লীগের খাতায়। আর নাম লেখানোর
 											সাথে তারা পেত অদ্ভুতরকমের ক্ষমতা, যাচ্ছেতাই করে বেড়ানোর সুযোগ! </p>
-										<br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">আমি তখন ১-১ তে পড়ি যখন ১৪ বা ১৫ ব্যাচের কন্সার্ট
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">আমি তখন ১-১ তে পড়ি যখন ১৪ বা ১৫ ব্যাচের কন্সার্ট
 											নামে ক্যাম্পাসে। কন্সার্টের মূল আকর্ষণ “মিলা”। সেই কন্সার্টের রাতে হঠাৎ ডাক
 											পড়ে সোহরাওয়ার্দী হলের হাজারের ব্লকের ছাদে। ১৭ ব্যাচের প্রায় সবাই ছাদে যখন
 											উপস্থিত, হলের রাজনৈতিক বড়ভাইরা একে একে ধরে ধরে মারধোর করতে থাকে জুনিয়রদের।
@@ -1400,11 +1298,14 @@ flexibility(document.documentElement);
 											রুমে ডেকে কান ফেটে ফেলার মতো সাহসের যোগান, এটাই প্রমাণ করে যে হলগুলোতে
 											ছাত্ররাজনীতি কেমন অযোগ্য মানুষদের হাতে ক্ষমতা তুলে দিত। কোনো একটা অপরাধ
 											সংঘটিত হয়, অপরাধীরা শাস্তি পায়। কিন্তু সেই অপরাধের পিছনে অপরাধ করার সাহসের
-											যোগানদাতা কে, সেটা নিয়ে আর আলোচনা হয়না।</p><br />
-										<!-- /wp:paragraph --><br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">আমাদের হলে যখন ১৭ ব্যাচ থেকে ছাত্রলীগে রিক্রুট
+											যোগানদাতা কে, সেটা নিয়ে আর আলোচনা হয়না।</p>
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">আমাদের হলে যখন ১৭ ব্যাচ থেকে ছাত্রলীগে রিক্রুট
 											শুরু হয়, বেশিরভাগ ব্যাচমেটকে দেখলাম দলে দলে যোগ দিতে। একদম নিরীহ মানুষ যার
 											কিনা রাজনীতিতে খুব বেশি আকর্ষণই নেই, তারাও যোগ দিল। আমাদের হলে ছিল ছাত্র
 											লীগের দুইটা কোরাম (প্রকৃতপক্ষে পুরো বুয়েটেই দুটো কোরাম ছিল, কিন্তু কিছু কিছু
@@ -1426,11 +1327,13 @@ flexibility(document.documentElement);
 											যে বিশাল সম্ভাবনা ছিল, তা অসত্য নয়। অনেকেই যে এই কারণেই রাজনীতিতে নাম
 											লিখেছিল, তাও আমার জানা। ভাইদের সেদিন বললাম, “ভাই আশা করি আমার নিজের জায়গা
 											থেকে নিজের সে যেটুকু রাখার, তা রাখতে পারব, আর না পারলেও আমার সমস্যা নাই।
-											রাজনীতিতে আমি আসতেছি না।“</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">২-১ এ উঠার পর এক মজার ঘটনা ঘটলো। হলের ১৩ ব্যাচের
+											রাজনীতিতে আমি আসতেছি না।“</p>
+																<br />
+																<!-- /wp:paragraph -->
+																<br />
+																<!-- wp:paragraph {"fontSize":"medium"} -->
+																<br />
+																<p class="has-medium-font-size">২-১ এ উঠার পর এক মজার ঘটনা ঘটলো। হলের ১৩ ব্যাচের
 											এক বড় ভাই যার কিনা হল ছেড়ে চলে যাওয়ার কথা আরো ৭/৮ মাস আগেই, শুনলাম
 											মাস্টার্সে শহীদ স্মৃতি হলে সিট পাওয়া নিয়ে তার গ্যাঞ্জাম। ঘটনা হলো, ১৩
 											ব্যাচের এই লোক স্মৃতি হলে সিট পাওয়া নিয়ে তিতুমীর হলের আরেক এলামনাই এর সাথে
@@ -1441,11 +1344,13 @@ flexibility(document.documentElement);
 											গ্যাঞ্জামে। নিজের কোরামের গুটিকয়েক মানুষ নিয়ে চলে গেল তারা তিতুমীর হলের
 											গেটে। শুনছিলাম তিতুমীরে গিয়ে মারামারি করা দূরের কথা, তাদের হলের দুইতলা থেকে
 											একের পর এক কাঁচের বোতল বর্ষণের ঠেলায় তারা ঢুকতেই পারেনি! আমারই এক বন্ধুর হাত
-											কেটে গেল, তাকে নিয়ে আবার মানুষজন ডিএমসিতে গেল ট্রিটমেন্ট করতে।</p><br />
-										</p>
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">১-২ তে থাকতে সেবার সারা দেশে স্কুলছাত্রদের
+											কেটে গেল, তাকে নিয়ে আবার মানুষজন ডিএমসিতে গেল ট্রিটমেন্ট করতে।</p>
+																<br />
+															</p>
+															<br />
+															<!-- wp:paragraph {"fontSize":"medium"} -->
+															<br />
+															<p class="has-medium-font-size">১-২ তে থাকতে সেবার সারা দেশে স্কুলছাত্রদের
 											নিরাপদ সড়ক আন্দোলন শুরু হলো। অস্থির সময়ের কথা, ছাত্ররা একদম মহাকাব্য রচনা
 											করার মতো অবস্থা। সেসময়ই এক রাতে হুট করে দেখলাম পাশের হলে ছাত্র লীগের বিশাল
 											মিছিল। হলের বারান্দা থেকে দাঁড়িয়ে দেখলাম পুলিশ সহ হেলমেট বাহিনী শেরে বাংলা
@@ -1469,12 +1374,14 @@ flexibility(document.documentElement);
 											বক্সভর্তি সিম ইত্যাদি ইত্যাদি।“ এই বড় ভাইদেরই একজন কিছুদিন পরে টিউশনিতে
 											নিজের পুরুষাঙ্গ দেখিয়ে এক্সপোজড হয়। ছোট্ট একটা তথ্য জানিয়ে রাখি, ১৫ ব্যাচের
 											সেই বড়ভাই গ্রেপ্তার হয় কুরবানি ঈদের আগে। ঈদের ঠিক একদম আগ দিয়ে তাকে জেল থেকে
-											ছেড়ে দেয়া হয় বলতে জানতে পারি।</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">শিবির ট্যাগ দিয়ে এমন অত্যাচারের ঘটনা আমার চোখে
+											ছেড়ে দেয়া হয় বলতে জানতে পারি।</p>
+															<br />
+															<!-- /wp:paragraph -->
+															<br />
+															<br />
+															<!-- wp:paragraph {"fontSize":"medium"} -->
+															<br />
+															<p class="has-medium-font-size">শিবির ট্যাগ দিয়ে এমন অত্যাচারের ঘটনা আমার চোখে
 											দেখা সেবারই প্রথম। সেবার আমরা সবাই অসহায় ছিলাম এবং আবরারের ঘটনার সাথে এর
 											প্রায় কোনোই পার্থক্য নেই। কিন্তু সে যাত্রায় সেই ভাই মারা যাননি, তাই পরেরবার
 											আবরারের ঘটনা ঘটার সুযোগ হয়েছে। আবরারের ঘটনা যতবারই বলতে আসি, আমার নিজের
@@ -1482,12 +1389,14 @@ flexibility(document.documentElement);
 											সাথে ইন্টার্যাকশনও হয়েছে অনেক কম। কিন্তু আমি ওকে চিনতাম। ওর নাম জানতাম। ওর
 											রুমে প্রায়ই যাওয়া আসা হতো আমার। ইইই ১৮ ব্যাচের রিসিপশনের সময় ওদের ইনভাইটেশন
 											লেটারে কাজ করেছিল ফাহাদ। আমরা ওকে ফাহাদ নামেই চিনতাম, আবরার নাম ব্যবহার
-											করতাম অনেক কম।</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">আবরারের হত্যার মাধ্যমে শুরু হয় বুয়েটে
+											করতাম অনেক কম।</p>
+															<br />
+															<!-- /wp:paragraph -->
+															<br />
+															<br />
+															<!-- wp:paragraph {"fontSize":"medium"} -->
+															<br />
+															<p class="has-medium-font-size">আবরারের হত্যার মাধ্যমে শুরু হয় বুয়েটে
 											ছাত্ররাজনীতির পতনের শুরু। ৭ অক্টোবর রাতে যখন প্রথম কথা উঠে যে ছাত্ররাজনীতিকে
 											বুয়েট থেকে তাড়াতে হবে, আমরা অনেকেই এমন কথা তোলার সাহস পাচ্ছিলাম না। সত্যি
 											বলতে, আমরা যারা হলে একদম শুরু থেকে তাদের রাজনৈতিক ক্ষমতার একদম পুরোটা দেখে
@@ -1503,12 +1412,14 @@ flexibility(document.documentElement);
 											মিছিলে নিয়ে যাওয়া থেকে শুরু করে ক্যাম্পাসের নিরীহ মানুষদের অত্যাচার এবং
 											নিজেদের প্রভাব বিস্তারের জন্য অযোগ্য কীটদের হাতে ক্ষমতা তুলে দেয়ার নিকৃষ্টতম
 											কালচার ছিল, তার পরিবর্তন আসে। ক্যাফের পাশে থাকা লীগকর্নারের নতুন নাম হয়
-											মুক্তিকর্নার।</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">আমার চোখে দেখা বুয়েটের রাজনীতির কোনো দাম নেই।
+											মুক্তিকর্নার।</p>
+															<br />
+															<!-- /wp:paragraph -->
+															<br />
+															<br />
+															<!-- wp:paragraph {"fontSize":"medium"} -->
+															<br />
+															<p class="has-medium-font-size">আমার চোখে দেখা বুয়েটের রাজনীতির কোনো দাম নেই।
 											দেশের কোনো বড় রাজনৈতিক আসনে আমি বুয়েটের কোনো রাজনৈতিক নেতাকে দেখিনি। বুয়েটের
 											রাজনীতির প্রভাব শুধুই ক্যাম্পাসের পলাশী মোড় থেকে বকশিবাজার পর্যন্ত। তাও আবার
 											পাশের ক্যাম্পাস থেকে যখন ‘বাবা’দের উদয় হয়, তখন বুয়েটের রাজনীতির দাম কিনি
@@ -1528,12 +1439,14 @@ flexibility(document.documentElement);
 											দুর্বল জাস্টিফিকেশন দিয়ে রাজনীতিকে গ্লোরিফাই করার চেষ্টা করা হবে। তখন যদি
 											ক্যাম্পাসের সকলে এর বিরুদ্ধে আবার সংঘবদ্ধ হয়ে না দাঁড়ায়, তবে আরেকটা আবরার
 											ফাহাদ ঘটতে বেশিদিন লাগবে বলে মনে করিনা।
-										</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<br />
-										<!-- wp:paragraph {"fontSize":"medium"} --><br />
-										<p class="has-medium-font-size">আবরারের মৃত্যু আমাদের ক্যাম্পাসে এক সুন্দর
+															</p>
+															<br />
+															<!-- /wp:paragraph -->
+															<br />
+															<br />
+															<!-- wp:paragraph {"fontSize":"medium"} -->
+															<br />
+															<p class="has-medium-font-size">আবরারের মৃত্যু আমাদের ক্যাম্পাসে এক সুন্দর
 											পরিবর্তন নিয়ে এসেছে। তার শোকে আমরা সবাই কাতর হলেও, তার অবদানেই আজ আমরা
 											মুক্তভাবে ক্যাম্পাসে চলতে পারি। এই পুরো পরিবর্তন বৃথা যাবে যদি আবারও
 											ক্যাম্পাসে হায়েনাদের আনাগোনা দেখা যায়। বুয়েটের তখনকার এই রাজনীতির অপকর্মের
@@ -1545,181 +1458,140 @@ flexibility(document.documentElement);
 											অদূর ভবিষ্যতে ক্যাম্পাসে রাজনীতির নামে অন্যায় অবিচার অত্যাচার প্রতিষ্ঠিত
 											হওয়াকে রুখে দাড়াতে হবে অবশ্যই জুনিয়রদেরই। প্রতিবাদ করতে হবে, কারণ তা না করলে
 											আরেকটা আবরার ফাহাদ মরতে সত্যিই বেশিদিন লাগবে না।
-										</p><br />
-										<!-- /wp:paragraph -->
-										<br />
-										<br />
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-				</div>
-				<!-- End Wrapper with sidebar -->
-			</div> <!-- ast-container -->
-
-		</div><!-- #content -->
-
-
-
-		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
-			<div class='footer-width-fixer'>
-				<div data-elementor-type="wp-post" data-elementor-id="1761" class="elementor elementor-1761"
-					data-elementor-settings="[]">
-					<div class="elementor-inner">
-						<div class="elementor-section-wrap">
-							<section
-								class="elementor-section elementor-top-section elementor-element elementor-element-db88dca elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-								data-id="db88dca" data-element_type="section">
-								<div class="elementor-container elementor-column-gap-no">
-									<div class="elementor-row">
-										<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ea9610d"
-											data-id="ea9610d" data-element_type="column">
-											<div class="elementor-column-wrap elementor-element-populated">
-												<div class="elementor-widget-wrap">
-													<div class="elementor-element elementor-element-70db21a elementor-widget elementor-widget-heading"
-														data-id="70db21a" data-element_type="widget"
-														data-widget_type="heading.default">
-														<div class="elementor-widget-container">
-															<h4 class="elementor-heading-title elementor-size-default">
-																Contact Us</h4>
+															</p>
+															<br />
+															<!-- /wp:paragraph -->
+															<br />
+															<br />
 														</div>
 													</div>
-													<div class="elementor-element elementor-element-a6c231e elementor-widget elementor-widget-heading"
-														data-id="a6c231e" data-element_type="widget"
-														data-widget_type="heading.default">
-														<div class="elementor-widget-container">
-															<p class="elementor-heading-title elementor-size-default">
+												</div>
+											</div>
+										</section>
+									</div>
+									<!-- End Wrapper with sidebar -->
+								</div>								<!-- ast-container -->
+
+							</div>							<!-- #content -->
+
+
+
+							<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+								<div class='footer-width-fixer'>
+									<div data-elementor-type="wp-post" data-elementor-id="1761" class="elementor elementor-1761" data-elementor-settings="[]">
+										<div class="elementor-inner">
+											<div class="elementor-section-wrap">
+												<section class="elementor-section elementor-top-section elementor-element elementor-element-db88dca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="db88dca" data-element_type="section">
+													<div class="elementor-container elementor-column-gap-no">
+														<div class="elementor-row">
+															<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ea9610d" data-id="ea9610d" data-element_type="column">
+																<div class="elementor-column-wrap elementor-element-populated">
+																	<div class="elementor-widget-wrap">
+																		<div class="elementor-element elementor-element-70db21a elementor-widget elementor-widget-heading" data-id="70db21a" data-element_type="widget" data-widget_type="heading.default">
+																			<div class="elementor-widget-container">
+																				<h4 class="elementor-heading-title elementor-size-default">
+																Contact Us</h4>
+																			</div>
+																		</div>
+																		<div class="elementor-element elementor-element-a6c231e elementor-widget elementor-widget-heading" data-id="a6c231e" data-element_type="widget" data-widget_type="heading.default">
+																			<div class="elementor-widget-container">
+																				<p class="elementor-heading-title elementor-size-default">
 																This website has been built by the students of BUET
 																Batch ’17 in order to commemorate their murdered friend
 																Abrar Fahad &amp; the movement to secure justice for
 																Abrar’s murder.</p>
-														</div>
-													</div>
-													<div class="elementor-element elementor-element-8ddd431 elementor-widget elementor-widget-heading"
-														data-id="8ddd431" data-element_type="widget"
-														data-widget_type="heading.default">
-														<div class="elementor-widget-container">
-															<p class="elementor-heading-title elementor-size-default">
+																			</div>
+																		</div>
+																		<div class="elementor-element elementor-element-8ddd431 elementor-widget elementor-widget-heading" data-id="8ddd431" data-element_type="widget" data-widget_type="heading.default">
+																			<div class="elementor-widget-container">
+																				<p class="elementor-heading-title elementor-size-default">
 																Email us: abrarfahadarchive@gmail.com</p>
-														</div>
-													</div>
-													<div class="elementor-element elementor-element-55a34bc elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-														data-id="55a34bc" data-element_type="widget"
-														data-widget_type="social-icons.default">
-														<div class="elementor-widget-container">
-															<div class="elementor-social-icons-wrapper elementor-grid">
-																<div class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-6c2874f"
-																		href="https://www.facebook.com/abrarfahad225">
-																		<span
-																			class="elementor-screen-only">Facebook-f</span>
-																		<i class="fab fa-facebook-f"></i> </a>
-																</div>
-																<div class="elementor-grid-item">
-																	<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-grow elementor-repeater-item-fdbbcd2"
-																		href="https://www.youtube.com/channel/UCaGZurJFkOfH5mksKshL8Sg/"
-																		target="_blank">
-																		<span
-																			class="elementor-screen-only">Youtube</span>
-																		<i class="fab fa-youtube"></i> </a>
-																</div>
-															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a074528"
-											data-id="a074528" data-element_type="column">
-											<div class="elementor-column-wrap">
-												<div class="elementor-widget-wrap">
-												</div>
-											</div>
-										</div>
-										<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-752e880"
-											data-id="752e880" data-element_type="column">
-											<div class="elementor-column-wrap elementor-element-populated">
-												<div class="elementor-widget-wrap">
-													<div class="elementor-element elementor-element-93d6c83 elementor-widget elementor-widget-heading"
-														data-id="93d6c83" data-element_type="widget"
-														data-widget_type="heading.default">
-														<div class="elementor-widget-container">
-															<h4 class="elementor-heading-title elementor-size-default">
-																Navigation</h4>
-														</div>
-													</div>
-													<div class="elementor-element elementor-element-69ad411 hfe-nav-menu__breakpoint-mobile hfe-nav-menu__align-left hfe-submenu-icon-arrow elementor-widget elementor-widget-navigation-menu"
-														data-id="69ad411" data-element_type="widget"
-														data-widget_type="navigation-menu.default">
-														<div class="elementor-widget-container">
-															<div class="hfe-nav-menu hfe-layout-vertical hfe-nav-menu-layout vertical"
-																data-layout="vertical">
-																<div class="hfe-nav-menu__toggle elementor-clickable">
-																	<div class="hfe-nav-menu-icon">
-																		<i aria-hidden="true" tabindex="0"
-																			class="fas fa-align-justify"></i>
+																			</div>
+																		</div>
+																		<div class="elementor-element elementor-element-55a34bc elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="55a34bc" data-element_type="widget" data-widget_type="social-icons.default">
+																			<div class="elementor-widget-container">
+																				<div class="elementor-social-icons-wrapper elementor-grid">
+																					<div class="elementor-grid-item">
+																						<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-animation-grow elementor-repeater-item-6c2874f" href="https://www.facebook.com/abrarfahad225">
+																							<span class="elementor-screen-only">Facebook-f</span>
+																							<i class="fab fa-facebook-f"></i>
+																						</a>
+																					</div>
+																					<div class="elementor-grid-item">
+																						<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-grow elementor-repeater-item-fdbbcd2" href="https://www.youtube.com/channel/UCaGZurJFkOfH5mksKshL8Sg/" target="_blank">
+																							<span class="elementor-screen-only">Youtube</span>
+																							<i class="fab fa-youtube"></i>
+																						</a>
+																					</div>
+																				</div>
+																			</div>
+																		</div>
 																	</div>
 																</div>
-																<nav class="hfe-nav-menu__layout-vertical hfe-nav-menu__submenu-arrow"
-																	data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;"
-																	data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;"
-																	data-full-width="yes">
-																	<ul id="menu-1-69ad411" class="hfe-nav-menu">
-																		<li id="menu-item-1763"
-																			class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu">
-																			<a href="/" class="hfe-menu-item">Home</a>
-																		</li>
-																		<li id="menu-item-45"
-																			class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-																			<a href="/bio/"
-																				class="hfe-menu-item">Bio</a>
-																		</li>
-																		<li id="menu-item-1899"
-																			class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-																			<a href="/photos/"
-																				class="hfe-menu-item">Photos</a>
-																		</li>
-																		<li id="menu-item-2152"
-																			class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-																			<a href="/videos/"
-																				class="hfe-menu-item">Videos</a>
-																		</li>
-																		<li id="menu-item-1863"
-																			class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-																			<a href="/blogs/"
-																				class="hfe-menu-item">Blogs</a>
-																		</li>
-																		<li id="menu-item-2282"
-																			class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
-																			<a href="/updates/"
-																				class="hfe-menu-item">Updates</a>
-																		</li>
-																	</ul>
-																</nav>
 															</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0b5027f"
-											data-id="0b5027f" data-element_type="column">
-											<div class="elementor-column-wrap elementor-element-populated">
-												<div class="elementor-widget-wrap">
-													<div class="elementor-element elementor-element-17f4451 elementor-widget elementor-widget-heading"
-														data-id="17f4451" data-element_type="widget"
-														data-widget_type="heading.default">
-														<div class="elementor-widget-container">
-															<h4 class="elementor-heading-title elementor-size-default">
+															<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-a074528" data-id="a074528" data-element_type="column">
+																<div class="elementor-column-wrap">
+																	<div class="elementor-widget-wrap">
+																	</div>
+																</div>
+															</div>
+															<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-752e880" data-id="752e880" data-element_type="column">
+																<div class="elementor-column-wrap elementor-element-populated">
+																	<div class="elementor-widget-wrap">
+																		<div class="elementor-element elementor-element-93d6c83 elementor-widget elementor-widget-heading" data-id="93d6c83" data-element_type="widget" data-widget_type="heading.default">
+																			<div class="elementor-widget-container">
+																				<h4 class="elementor-heading-title elementor-size-default">
+																Navigation</h4>
+																			</div>
+																		</div>
+																		<div class="elementor-element elementor-element-69ad411 hfe-nav-menu__breakpoint-mobile hfe-nav-menu__align-left hfe-submenu-icon-arrow elementor-widget elementor-widget-navigation-menu" data-id="69ad411" data-element_type="widget" data-widget_type="navigation-menu.default">
+																			<div class="elementor-widget-container">
+																				<div class="hfe-nav-menu hfe-layout-vertical hfe-nav-menu-layout vertical" data-layout="vertical">
+																					<div class="hfe-nav-menu__toggle elementor-clickable">
+																						<div class="hfe-nav-menu-icon">
+																							<i aria-hidden="true" tabindex="0" class="fas fa-align-justify"></i>
+																						</div>
+																					</div>
+																					<nav class="hfe-nav-menu__layout-vertical hfe-nav-menu__submenu-arrow" data-toggle-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;" data-close-icon="&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;" data-full-width="yes">
+																						<ul id="menu-1-69ad411" class="hfe-nav-menu">
+																							<li id="menu-item-1763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home parent hfe-creative-menu">
+																								<a href="/" class="hfe-menu-item">Home</a>
+																							</li>
+																							<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
+																								<a href="/bio/" class="hfe-menu-item">Bio</a>
+																							</li>
+																							<li id="menu-item-1899" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
+																								<a href="/photos/" class="hfe-menu-item">Photos</a>
+																							</li>
+																							<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
+																								<a href="/videos/" class="hfe-menu-item">Videos</a>
+																							</li>
+																							<li id="menu-item-1863" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
+																								<a href="/blogs/" class="hfe-menu-item">Blogs</a>
+																							</li>
+																							<li id="menu-item-2282" class="menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu">
+																								<a href="/updates/" class="hfe-menu-item">Updates</a>
+																							</li>
+																						</ul>
+																					</nav>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+															<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0b5027f" data-id="0b5027f" data-element_type="column">
+																<div class="elementor-column-wrap elementor-element-populated">
+																	<div class="elementor-widget-wrap">
+																		<div class="elementor-element elementor-element-17f4451 elementor-widget elementor-widget-heading" data-id="17f4451" data-element_type="widget" data-widget_type="heading.default">
+																			<div class="elementor-widget-container">
+																				<h4 class="elementor-heading-title elementor-size-default">
 																About</h4>
-														</div>
-													</div>
-													<div class="elementor-element elementor-element-5d971d4 elementor-widget elementor-widget-text-editor"
-														data-id="5d971d4" data-element_type="widget"
-														data-widget_type="text-editor.default">
-														<div class="elementor-widget-container">
-															<div class="elementor-text-editor elementor-clearfix">Abrar
+																			</div>
+																		</div>
+																		<div class="elementor-element elementor-element-5d971d4 elementor-widget elementor-widget-text-editor" data-id="5d971d4" data-element_type="widget" data-widget_type="text-editor.default">
+																			<div class="elementor-widget-container">
+																				<div class="elementor-text-editor elementor-clearfix">Abrar
 																was a bright star &#038; a huge prospect in the making
 																for Bangladesh. Not only he was academically excellent,
 																but also his profound knowledge on different things made
@@ -1733,91 +1605,77 @@ flexibility(document.documentElement);
 																whoever reading this right now, will put their heart out
 																so that nothing like this murder of Abrar ever happens
 																in any educational institution.</div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</section>
-							<section
-								class="elementor-section elementor-top-section elementor-element elementor-element-2fadcb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-								data-id="2fadcb5" data-element_type="section">
-								<div class="elementor-container elementor-column-gap-default">
-									<div class="elementor-row">
-										<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-784472f"
-											data-id="784472f" data-element_type="column">
-											<div class="elementor-column-wrap elementor-element-populated">
-												<div class="elementor-widget-wrap">
-													<div class="elementor-element elementor-element-c45bcf5 elementor-widget elementor-widget-copyright"
-														data-id="c45bcf5" data-element_type="widget"
-														data-widget_type="copyright.default">
-														<div class="elementor-widget-container">
-															<div class="hfe-copyright-wrapper">
-																<span>Copyright © 2020 Abrar Fahad Archive</span>
+																			</div>
+																		</div>
+																	</div>
+																</div>
 															</div>
 														</div>
 													</div>
-												</div>
+												</section>
+												<section class="elementor-section elementor-top-section elementor-element elementor-element-2fadcb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fadcb5" data-element_type="section">
+													<div class="elementor-container elementor-column-gap-default">
+														<div class="elementor-row">
+															<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-784472f" data-id="784472f" data-element_type="column">
+																<div class="elementor-column-wrap elementor-element-populated">
+																	<div class="elementor-widget-wrap">
+																		<div class="elementor-element elementor-element-c45bcf5 elementor-widget elementor-widget-copyright" data-id="c45bcf5" data-element_type="widget" data-widget_type="copyright.default">
+																			<div class="elementor-widget-container">
+																				<div class="hfe-copyright-wrapper">
+																					<span>Copyright © 2020 Abrar Fahad Archive</span>
+																				</div>
+																			</div>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</section>
 											</div>
 										</div>
 									</div>
 								</div>
-							</section>
-						</div>
-					</div>
-				</div>
-			</div>
-		</footer>
+							</footer>
 
 
-	</div><!-- #page -->
+						</div>						<!-- #page -->
 
 
-	<!-- ngg_resource_manager_marker -->
-	<script id='astra-theme-js-js-extra'>
+						<!-- ngg_resource_manager_marker -->
+						<script id='astra-theme-js-js-extra'>
 		var astra = { "break_point": "921", "isRtl": "" };
-	</script>
-	<script src='/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.5.5' id='astra-theme-js-js'></script>
-	<script id='contact-form-7-js-extra'>
+						</script>
+						<script src='/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.5.5' id='astra-theme-js-js'></script>
+						<script id='contact-form-7-js-extra'>
 		var wpcf7 = { "apiSettings": { "root": "\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" } };
-	</script>
-	<script src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
-	<script src='/wp-content/plugins/embedpress/assets/js/front.js?ver=2.6.1' id='embedpress-front-js'></script>
-	<script id='otw-pctl-counter-js-extra'>
+						</script>
+						<script src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+						<script src='/wp-content/plugins/embedpress/assets/js/front.js?ver=2.6.1' id='embedpress-front-js'></script>
+						<script id='otw-pctl-counter-js-extra'>
 		var otw_counter = { "url": "\/wp-admin\/admin-ajax.php", "post_id": "2330" };
-	</script>
-	<script src='/wp-content/plugins/post-custom-templates-lite/js/otw_pctl_counter.js?ver=5.5.1'
-		id='otw-pctl-counter-js'></script>
-	<script src='/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4.1.1'
-		id='__ytprefsfitvids__-js'></script>
-	<script src='/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.5.3'
-		id='hfe-frontend-js-js'></script>
-	<script id='550e1d836-js-extra'>
+						</script>
+						<script src='/wp-content/plugins/post-custom-templates-lite/js/otw_pctl_counter.js?ver=5.5.1' id='otw-pctl-counter-js'></script>
+						<script src='/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=13.4.1.1' id='__ytprefsfitvids__-js'></script>
+						<script src='/wp-content/plugins/header-footer-elementor/inc/js/frontend.js?ver=1.5.3' id='hfe-frontend-js-js'></script>
+						<script id='550e1d836-js-extra'>
 		var localize = { "ajaxurl": "\/wp-admin\/admin-ajax.php", "nonce": "37620e9c6c" };
-	</script>
-	<script src='/wp-content/uploads/essential-addons-elementor/550e1d836.min.js?ver=1602061328'
-		id='550e1d836-js'></script>
-	<script src='/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.10'
-		id='elementor-frontend-modules-js'></script>
-	<script src='/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
-	<script src='/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1'
-		id='elementor-dialog-js'></script>
-	<script src='/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2'
-		id='elementor-waypoints-js'></script>
-	<script src='/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
-	<script src='/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.10'
-		id='share-link-js'></script>
-	<script id='elementor-frontend-js-before'>
-		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.0.10", "is_static": false, "legacyMode": { "elementWrappers": true }, "urls": { "assets": "\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 2330, "title": "%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0%20%E0%A6%97%E0%A6%B2%E0%A7%8D%E0%A6%AA%20%E2%80%93%20Abrar%20Fahad%20Archive", "excerpt": "", "featuredImage": "\/wp-content\/uploads\/2020\/10\/photo-1539581339036-677179dae820.jpg" } };
-	</script>
-	<script src='/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.10'
-		id='elementor-frontend-js'></script>
-	<script>
+						</script>
+						<script src='/wp-content/uploads/essential-addons-elementor/550e1d836.min.js?ver=1602061328' id='550e1d836-js'></script>
+						<script src='/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.10' id='elementor-frontend-modules-js'></script>
+						<script src='/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+						<script src='/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+						<script src='/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+						<script src='/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+						<script src='/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.10' id='share-link-js'></script>
+						<script id='elementor-frontend-js-before'>
+		var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "version": "3.0.10", "is_static": false, "legacyMode": { "elementWrappers": true }, "urls": { "assets": "\/wp-content\/plugins\/elementor\/assets\/" }, "settings": { "page": [], "editorPreferences": [] }, "kit": { "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 2330, "title": "%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%B0%20%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87%20%E0%A6%AC%E0%A7%81%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A7%87%E0%A6%B0%20%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF%20%E2%80%93%20Abrar%20Fahad%20Archive", "excerpt": "", "featuredImage": "\/wp-content\/uploads\/2020\/10\/photo-1539581339036-677179dae820.jpg" } };
+						</script>
+						<script src='/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.10' id='elementor-frontend-js'></script>
+						<script>
 		/(trident|msie)/i.test(navigator.userAgent) && document.getElementById && window.addEventListener && window.addEventListener("hashchange", function () { var t, e = location.hash.substring(1); /^[A-z0-9_-]+$/.test(e) && (t = document.getElementById(e)) && (/^(?:a|select|input|button|textarea)$/i.test(t.tagName) || (t.tabIndex = -1), t.focus()) }, !1);
-	</script>
+						</script>
 
-</body>
+					</body>
 
-</html>
+				</html>
